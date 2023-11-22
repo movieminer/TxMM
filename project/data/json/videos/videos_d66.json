@@ -1,0 +1,3427 @@
+[
+  {
+    "kind": "youtube#searchListResponse",
+    "etag": "D_dOEkUBouKz_pzM11CQRVXbORE",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "NL",
+    "pageInfo": {
+      "totalResults": 49141,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "vAenkclvV7dTuwWzGxQTAv5fmCY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "rchUiq0nSEw"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-22T07:32:00Z",
+          "channelId": "UCI6DBNX5JTVECWNdiax56Rw",
+          "title": "D66 \u2014 Stem op Rob Jetten",
+          "description": "Het is zo ver. We mogen vandaag naar de stembus! Stem voor goed onderwijs, klimaatactie en een eerlijke economie. En tegen ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/rchUiq0nSEw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/rchUiq0nSEw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/rchUiq0nSEw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "D66",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-22T07:32:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "59bRvSzdSEkdsby6U2tq37KGrAw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "aKU82J28mqU"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-20T12:55:49Z",
+          "channelId": "UCI6DBNX5JTVECWNdiax56Rw",
+          "title": "Jan Terlouw \u2014 Stem verstandig.",
+          "description": "Woensdag gaan we naar de stembus. Besteed uw stem zorgvuldig. Voorkom dat Nederland verwildert. Kies voor deskundigheid ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/aKU82J28mqU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/aKU82J28mqU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/aKU82J28mqU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "D66",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-20T12:55:49Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "rOHJKOxtXNqVYw50bR5lLdfbm6Q",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "PDitTq_P4Kk"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-03T15:00:10Z",
+          "channelId": "UCI6DBNX5JTVECWNdiax56Rw",
+          "title": "D66 \u2014 Nieuwe energie voor Nederland | Campagnespot Tweede Kamerverkiezingen 2023",
+          "description": "De keuzes die we vandaag maken, vormen de toekomst van morgen. Daarom kiezen wij voor goed onderwijs, het klimaat en een ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/PDitTq_P4Kk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/PDitTq_P4Kk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/PDitTq_P4Kk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "D66",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-03T15:00:10Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "6tB6xO9c88nkVm7PapfiFZiqdLI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "k_Y-gy33A2A"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-14T14:35:27Z",
+          "channelId": "UCExcZNwh_3Mwm4fF4VSiu2w",
+          "title": "Hoe gaat D66 de politiek vernieuwen?",
+          "description": "D66-lijsttrekker Rob Jetten is kritisch op partijgenoten die tijdens of na hun politieke baan in de fossiele energiesector gaan ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/k_Y-gy33A2A/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/k_Y-gy33A2A/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/k_Y-gy33A2A/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Nieuwsuur",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-14T14:35:27Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "btetgjrvvnMI0N3UNc3ZIOZJFTk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "y_jA2WdZj1I"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-15T08:34:17Z",
+          "channelId": "UC5xziMuoFAOpX9mwUVhe2Jw",
+          "title": "TERUGKIJKEN | Rob Jetten (D66) beantwoordde jullie vragen",
+          "description": "Van 6 t/m 21 november legt verslaggever Albert Bos iedere werkdag om 9.15 uur jullie vragen live voor aan een lijsttrekker.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/y_jA2WdZj1I/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/y_jA2WdZj1I/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/y_jA2WdZj1I/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "NOS",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-15T08:34:17Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "luXttFyP4LhPSCM7mb2lsOYLdZc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "umQU1kJOco4"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-21T19:43:20Z",
+          "channelId": "UCI6DBNX5JTVECWNdiax56Rw",
+          "title": "D66 Congres 118 \u2014 Speech Rob Jetten",
+          "description": "Volg ons op: YouTube \ud83c\udf9e\ufe0f - https://www.youtube.com/user/Democraten66 Instagram ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/umQU1kJOco4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/umQU1kJOco4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/umQU1kJOco4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "D66",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-21T19:43:20Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "6KI2tM25kmB0pqvEyvqha2MjXR8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "PvwqLI-8Npc"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-01T19:35:41Z",
+          "channelId": "UCf63l7Wp_wX7T-5ChM_Km9Q",
+          "title": "Baudet (FvD) x Jetten (D66)",
+          "description": "In het NOS op 3 Verkiezingsprogramma gaan Rob Jetten (D66) en Thierry Baudet (Forum voor Democratie) in gesprek met ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/PvwqLI-8Npc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/PvwqLI-8Npc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/PvwqLI-8Npc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "NOS op 3",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-01T19:35:41Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Wk0gVeSBGGvRtYFKvbgWCbRYZ5E",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "1TQCU8CYNJU"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-13T15:07:39Z",
+          "channelId": "UC1EkpqVcze9g1oPN4Re3nRA",
+          "title": "Omtzigt zet D66 (vervangend) Kamerlid Carline van Breugel voor schut",
+          "description": "Even kijken Caroline van Breugel voor schut gezet door Pieter Omtzigt 9 november 2023.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/1TQCU8CYNJU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/1TQCU8CYNJU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/1TQCU8CYNJU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bert Brandsma",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-13T15:07:39Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "x5liGKjfzSTST7nHck0t_v13SKk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "iPQ_fS6fokw"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-03T02:19:31Z",
+          "channelId": "UCI6DBNX5JTVECWNdiax56Rw",
+          "title": "D66 \u2014 Eerste speech Rob Jetten als lijsttrekker",
+          "description": "Rob Jetten geeft zijn speech als partijleider. Over de koers die hij op wil met D66. De livestream is hier met ondertiteling te volgen ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/iPQ_fS6fokw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/iPQ_fS6fokw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/iPQ_fS6fokw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "D66",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-03T02:19:31Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "awR65HvDcRwJd2GbaEsYX7bs0fI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "byBMKi2oac0"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-20T16:20:39Z",
+          "channelId": "UCMv0VFu5A3WQvKsYTb_J9yQ",
+          "title": "Hilariteit in de Kamer vanwege peperdure D66-truien #APB2023",
+          "description": "Bekijk hier de interruptie van SGP-fractievoorzitter Chris Stoffer op Jan Paternotte van D66. Stoffer hekelt het gedram van D66 van ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/byBMKi2oac0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/byBMKi2oac0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/byBMKi2oac0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "SGP",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-20T16:20:39Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "FGulS6omQ_Mll9JetLD73B-43pA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "eb8ILyOlSg4"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-02T11:44:46Z",
+          "channelId": "UC9H9K7oSpte0uWBofdW4UiA",
+          "title": "&quot;Wat is non-binair?&quot; Baudet (FVD) CLASHT met Jetten (D66) in debat over LHBTQI+",
+          "description": "Het interesseert ons niet wat volwassenen op hun slaapkamer doen. Wij gunnen iedereen al het geluk van de wereld. Maar van ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/eb8ILyOlSg4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/eb8ILyOlSg4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/eb8ILyOlSg4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Forum voor Democratie",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-02T11:44:46Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "53dmsj_kZv7fwMyr5JaO5o6B4-E",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "yyYYTspeMGI"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-23T17:33:45Z",
+          "channelId": "UCI6DBNX5JTVECWNdiax56Rw",
+          "title": "Minister Ernst Kuipers sluit een historisch zorgakkoord",
+          "description": "Als je sommigen politici moet geloven, hebben we de beste zorg van Europa of zelfs de wereld. De ongemakkelijke waarheid is ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/yyYYTspeMGI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/yyYYTspeMGI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/yyYYTspeMGI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "D66",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-23T17:33:45Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "71jS7BYg-W179FD38ji0uVGBxsE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "RrCUJPePnq4"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-12T18:32:00Z",
+          "channelId": "UC-HiBittGslPfzkC22LcNGA",
+          "title": "Nieuwe D66-leider Rob Jetten wekt irritatie",
+          "description": "Wil je op de hoogte blijven van nieuwe uploads, abonneer je dan (gratis) via deze link: https://bit.ly/3ck0Xix Maarten van Rossem ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/RrCUJPePnq4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/RrCUJPePnq4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/RrCUJPePnq4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Maarten van Rossem - De Podcast",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-12T18:32:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "dwEenJF0Em6Cs0bA6Omn-t6_V7w",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "rIDPCHh4GmU"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-16T17:48:41Z",
+          "channelId": "UCWALr0VavEm8SgPXGafhFDQ",
+          "title": "Rob Jetten (D66): \u2018Aanval Timmermans was tenenkrommend\u2019",
+          "description": "Dit is een fragment uit The Daily Move met presentatoren Kees Dorresteijn en Liesbeth Staats. Te gast zijn politiek verslaggever ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/rIDPCHh4GmU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/rIDPCHh4GmU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/rIDPCHh4GmU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "BNR",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-16T17:48:41Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "nVmlCkz0ixALMgDQmyAav51kZkc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ml2YEb2Fbsw"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-06T08:30:28Z",
+          "channelId": "UCMv0VFu5A3WQvKsYTb_J9yQ",
+          "title": "&#39;D66 doet alsof het kabinet niet is gevallen&#39; - SGP vs D66 over controversieel verklaringen",
+          "description": "D66 doet alsof het kabinet niet is gevallen en wil gewoon doorregeren. In staatsrechtelijk en democratisch licht is dat hoogst ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ml2YEb2Fbsw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ml2YEb2Fbsw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ml2YEb2Fbsw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "SGP",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-06T08:30:28Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "BASshRDq97w--BzkmbkxsK0IMnA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "0TazxIR4xiI"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-07T14:26:32Z",
+          "channelId": "UClRJ0fR9SrsdDSp0_na5Wew",
+          "title": "BBB, D66 en GroenLinks-PvdA in debat over klimaat - NOS Nederland Kiest | NPO Radio 1",
+          "description": "Caroline van der Plas (BBB), Rob Jetten (D66) en Frans Timmermans (GroenLinks-PvdA) debatteren in het radiodebat van de ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/0TazxIR4xiI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/0TazxIR4xiI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/0TazxIR4xiI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "NPO Radio 1",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-07T14:26:32Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "fbYZmbCBnW0xJ7HroMbaPq10qj0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "RfCF3RIH-kk"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-11T14:00:29Z",
+          "channelId": "UC-bbHiTZGWKbsCjpzUfrk6Q",
+          "title": "Zweten in de sportschool met Rob Jetten (D66)",
+          "description": "De Tweede Kamerverkiezingen komen eraan: wat wil D66 eigenlijk? Bart sprak daarover met de baas van de partij, Rob Jetten.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/RfCF3RIH-kk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/RfCF3RIH-kk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/RfCF3RIH-kk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "NOS Jeugdjournaal",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-11T14:00:29Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "GHf_eqHmI6MpEV33iqsiyN9TuvQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "nvk7kfcstQo"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-11T13:00:46Z",
+          "channelId": "UCTAJA5ySvTzNDxu5EN2-Ijg",
+          "title": "Rutte maakt GEHAKT van Paternotte (D66): Uw FRAME is GROOTST mogelijke NONSENS &amp; BENEDEN het niveau!",
+          "description": "Deze video is gemaakt door PolitiekTV* Tijdens debat van 10-7-2023 Wil je PolitiekTV steunen? Dat kan via: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/nvk7kfcstQo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/nvk7kfcstQo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/nvk7kfcstQo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Politiek TV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-11T13:00:46Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "kmWcCEuHWTYsRhX6yf4u7hNq7VI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "UmQWXsVC8lA"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-25T13:00:23Z",
+          "channelId": "UCTAJA5ySvTzNDxu5EN2-Ijg",
+          "title": "Omtzigt VS D66: &quot;Hoe vind u zelf dat het gaat? D66 is in ALLE provincies UITGESLOTEN!&quot;",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/UmQWXsVC8lA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/UmQWXsVC8lA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/UmQWXsVC8lA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Politiek TV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-25T13:00:23Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "HrXrJd79j7Piw-hoNJnnouIOAYk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "OSwjlQII5so"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-12T17:00:16Z",
+          "channelId": "UC1Et9K-hHf-P_LzQkE_Q3Jw",
+          "title": "&#39;Duidelijk signaal: Tjeerd de Groot op de wip bij D66&#39;",
+          "description": "In Afhameren bespreken politiek commentator Wouter de Winther en Pim Sedee het laatste politieke nieuws. In deze aflevering: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/OSwjlQII5so/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/OSwjlQII5so/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/OSwjlQII5so/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "De Telegraaf",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-12T17:00:16Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Ls5hWU4dAZwEt6QEblPrYfnef_U",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "2PQpANgN-co"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-13T06:00:00Z",
+          "channelId": "UCxvQFgr1AcMbS1rheMrn4uw",
+          "title": "Job ziet Yesim Candan op kandidatenlijst D66: \u2018Ze willen geen stemmen\u2019 | VANDAAG INSIDE",
+          "description": "Johan en Job reageren op de bekendmaking van de kandidatenlijst van D66. Kijk iedere werkdag om 21.35u naar Vandaag ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2PQpANgN-co/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2PQpANgN-co/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2PQpANgN-co/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Vandaag Inside",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-13T06:00:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "cvZtx3xnD90zVlGmmxm5cXX0xX8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "MNjCa-qzW7A"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-07T17:09:29Z",
+          "channelId": "UCCJWCNoQx13dalH5nu2wXKg",
+          "title": "Martin Bosma spreekt D66-troela aan op haar RACISTISCHE gedrag!",
+          "description": "Martin Bosma spreekt D66-troela aan op haar RACISTISCHE gedrag!",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MNjCa-qzW7A/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MNjCa-qzW7A/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MNjCa-qzW7A/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "KafkaNL",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-07T17:09:29Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "WAWQTnK0AjnTxWg7QWUjXXkyLcI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "lOfR9MSSUwk"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-13T06:27:18Z",
+          "channelId": "UCI6DBNX5JTVECWNdiax56Rw",
+          "title": "Sigrid, bedankt!",
+          "description": "Bedankt Sigrid, voor alles wat je voor ons als partijleider hebt gedaan! Volg ons op: YouTube ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lOfR9MSSUwk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lOfR9MSSUwk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lOfR9MSSUwk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "D66",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-13T06:27:18Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "FZsIv4I_xobHEgmSU0wkPmEjdgE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "3atDvRdk4_M"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-13T08:34:58Z",
+          "channelId": "UCWALr0VavEm8SgPXGafhFDQ",
+          "title": "Sigrid Kaag stopt als D66-leider om bedreigingen: \u2018Familie lijdt eronder\u2019",
+          "description": "'Wegens het grote aantal vrouwonvriendelijke berichten is besloten de commentsectie uit te zetten' Dit is een fragment uit De ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3atDvRdk4_M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3atDvRdk4_M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3atDvRdk4_M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "BNR",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-13T08:34:58Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "SF2I2uPCNOC3iu4yjSFQi7mxn-U",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "uhfeQWG6KSI"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-12T04:25:02Z",
+          "channelId": "UCI6DBNX5JTVECWNdiax56Rw",
+          "title": "D66 \u2014 Rob Jetten, onze nieuwe lijsttrekker",
+          "description": "D66 heeft een nieuwe lijsttrekker! Met Rob Jetten gaan we vol nieuwe energie voor Nederland. De toekomst wordt gemaakt door ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/uhfeQWG6KSI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/uhfeQWG6KSI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/uhfeQWG6KSI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "D66",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-12T04:25:02Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Uc1sHoykq-DnVyiz2N6GgZyVFUc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "FCrfGX87uuc"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-20T15:32:43Z",
+          "channelId": "UCWALr0VavEm8SgPXGafhFDQ",
+          "title": "Jan Paternotte (D66): &#39;We moeten van de fossiele subsidies af&#39;",
+          "description": "Dit is een fragment uit de Algemene Politieke Beschouwingen, waarin de Tweede Kamer debatteert over de Prinsjesdagplannen ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/FCrfGX87uuc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/FCrfGX87uuc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/FCrfGX87uuc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "BNR",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-20T15:32:43Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "jP9S3AsJqxgzq3zM99t_7iBg9Ao",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "R6zCMPhFgfk"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-21T20:12:33Z",
+          "channelId": "UCI6DBNX5JTVECWNdiax56Rw",
+          "title": "D66 \u2014 Congres 118",
+          "description": "Zaterdag 21 oktober is het zover, het verkiezingscongres C118. Een belangrijk Congres waar we ons kunnen uitspreken over het ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/R6zCMPhFgfk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/R6zCMPhFgfk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/R6zCMPhFgfk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "D66",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-21T20:12:33Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "n8B0nwbAgzQ-mTkUYpwuYilaZtI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "MOJ5mYvzFOs"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-23T06:30:22Z",
+          "channelId": "UCj37EjsXSPmZU5Xjbk5IAIw",
+          "title": "Voormalig klimaatdrammer Rob Jetten presenteerde het concept-partijprogramma van D66 | Op1",
+          "description": "Vandaag presenteerde voormalig klimaatdrammer Rob Jetten het concept-partijprogramma van D66. Hebben we nog landbouw?",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MOJ5mYvzFOs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MOJ5mYvzFOs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MOJ5mYvzFOs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Op1",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-23T06:30:22Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "hM3Ett2SA_zm6uq2qwLymib1TPw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "CJ5PTsTHYKM"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-17T09:40:52Z",
+          "channelId": "UCj37EjsXSPmZU5Xjbk5IAIw",
+          "title": "D66-lijsttrekker Rob Jetten wil graag een groen en progressief blok in de Tweede Kamer | Op1",
+          "description": "D66-lijsttrekker Rob Jetten wil graag een groen en progressief blok in de Tweede Kamer, maar twijfelt of dat met de houding van ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/CJ5PTsTHYKM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/CJ5PTsTHYKM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/CJ5PTsTHYKM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Op1",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-17T09:40:52Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ZaG3xNICXdm3Iiemdvo9_ZhKkvk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "VC8MkeZ9jAA"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-11T08:51:31Z",
+          "channelId": "UCj37EjsXSPmZU5Xjbk5IAIw",
+          "title": "D66 overwoog om Mark Rutte uit het torentje te zetten | Op1",
+          "description": "Politiek commentator Wouter de Winther becommentarieerde alle vier Ruttes kabinetten voor De Telegraaf. De krant schrijft dat ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VC8MkeZ9jAA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VC8MkeZ9jAA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VC8MkeZ9jAA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Op1",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-11T08:51:31Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ZXkgGTL6juZaU6bwMvIwWtJolzs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "hhgPZ2j56c8"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-14T09:25:35Z",
+          "channelId": "UCI6DBNX5JTVECWNdiax56Rw",
+          "title": "D66 \u2014 Wij maken nu keuzes voor later",
+          "description": "Onze partij bestaat 57 jaar. Al meer dan een halve eeuw werken wij aan een sterk, schoon en eerlijk Nederland. Wij maken nu ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/hhgPZ2j56c8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/hhgPZ2j56c8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/hhgPZ2j56c8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "D66",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-14T09:25:35Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "dUOfZhnnt1Piv4i1gROtJg7VQds",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "aQN8m0AN59Q"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-13T10:58:40Z",
+          "channelId": "UCUSrVHoJrz68z3Q5qHZZC4w",
+          "title": "Wordt Jan Paternotte de nieuwe D66-lijsttrekker? &#39;Daar heb ik goed over nagedacht&#39;",
+          "description": "D66-fractievoorzitter Jan Paternotte is er voor zichzelf uit of hij zich kandidaat stelt voor het lijsttrekkerschap van de partij na het ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/aQN8m0AN59Q/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/aQN8m0AN59Q/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/aQN8m0AN59Q/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "WNL",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-13T10:58:40Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "HCLOB1pznrR91zcXLUf5HfAfZWE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "3z2qHmpgY1U"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-21T18:56:23Z",
+          "channelId": "UC5xziMuoFAOpX9mwUVhe2Jw",
+          "title": "TERUGKIJKEN | NOS Nederland Kiest: Het Debat (deel 1)",
+          "description": "De NOS bracht de avond voor de verkiezingen het slotdebat. In dit deel debatteerden eerst de kleinere partijen met elkaar.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3z2qHmpgY1U/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3z2qHmpgY1U/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3z2qHmpgY1U/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "NOS",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-21T18:56:23Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "pczwzjrRT48gun9ZklX3bI8u4rs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "KV4npSqRnFM"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-19T10:00:12Z",
+          "channelId": "UCTAJA5ySvTzNDxu5EN2-Ijg",
+          "title": "De Tweede Kamer lacht De Groot (D66) KEIHARD uit: &quot;Dit is geen politiek, dit is cabaret!&quot;",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/KV4npSqRnFM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/KV4npSqRnFM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/KV4npSqRnFM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Politiek TV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-19T10:00:12Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "yMln6vL1yaeReN3WaIvR3senh0c",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "k2v2TyhF_Tg"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-04T15:15:02Z",
+          "channelId": "UCWALr0VavEm8SgPXGafhFDQ",
+          "title": "Rob Jetten raakt ge\u00efrriteerd: &#39;Gekelderde peilingen D66 is geneuzel&#39;",
+          "description": "Dit is een fragment uit BNR's Big Five met Art Rooijakkers. Het gaat over politiek. Te gast is Rob Jetten van D66 - ze hebben het ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/k2v2TyhF_Tg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/k2v2TyhF_Tg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/k2v2TyhF_Tg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "BNR",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-04T15:15:02Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "TACShjB8ZIpaf79WRV9LbubJdLs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "3w4TYpJ_rv8"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-07T20:08:44Z",
+          "channelId": "UCisDV4UW8boGqZgtBrG0F_A",
+          "title": "Wilders SLOOPT Jetten &amp; de rest van D66 volledig! &#39;Er is NIETS meer over van jullie clubje!&#39;",
+          "description": "Wilders SLO0PT Jetten & de rest van D66 volledig! 'Er is NIETS meer over van jullie clubje!' Music credits: Keichan - A piano of ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3w4TYpJ_rv8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3w4TYpJ_rv8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3w4TYpJ_rv8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Politiek Inzicht",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-07T20:08:44Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "xU75vrbwtpdp9JfwT_4DxArpSKo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "opr9ey4EQwg"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-05T15:00:40Z",
+          "channelId": "UCv4NUJ5BGSpJz_leIfayDzQ",
+          "title": "Rob Jetten (D66) over woningnood \u00e9n ochtendroutine",
+          "description": "Editie NL gaat speeddaten met de meest prominente lijsttrekkers. Zij gaan op 'date' met leden van het RTL Nieuwspanel.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/opr9ey4EQwg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/opr9ey4EQwg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/opr9ey4EQwg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "RTL Nieuws",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-05T15:00:40Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "IS1Ks_jvEsTl_Xj_unnmgVTJ5NA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "oHq_EGl3RyU"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-14T10:00:41Z",
+          "channelId": "UCTAJA5ySvTzNDxu5EN2-Ijg",
+          "title": "PVV&#39;ers zijn NIET te spreken over het &#39;geschenk&#39; van D66&#39;er Sjoerdsma &amp; Dassen (VOLT) &quot;Fik der in!&quot;",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/oHq_EGl3RyU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/oHq_EGl3RyU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/oHq_EGl3RyU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Politiek TV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-14T10:00:41Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "3Vb8KqxX2mk0-2MGVqBrpqV47wM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "DTvgIgWG4Tg"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-21T17:10:59Z",
+          "channelId": "UCI6DBNX5JTVECWNdiax56Rw",
+          "title": "D66 \u2014 Congres 118",
+          "description": "Zaterdag 21 oktober is het zover, het verkiezingscongres C118. Een belangrijk Congres waar we ons kunnen uitspreken over het ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DTvgIgWG4Tg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DTvgIgWG4Tg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DTvgIgWG4Tg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "D66",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-21T17:10:59Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ZCZS3EFrVtCkPFHbvqBcn81Y6Pg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "oVCB5dcg7XA"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-07T12:53:37Z",
+          "channelId": "UClRJ0fR9SrsdDSp0_na5Wew",
+          "title": "D66 en PVV in debat over het vertrouwen in de politiek - NOS Nederland Kiest | NPO Radio 1",
+          "description": "Rob Jetten (Democraten 66) en Geert Wilders (Partij voor de Vrijheid) gaan bij de NOS op NPO Radio 1 in debat over 'het ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/oVCB5dcg7XA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/oVCB5dcg7XA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/oVCB5dcg7XA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "NPO Radio 1",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-07T12:53:37Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "2hrL630RKiKv-DbMFHE2j-O8lks",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "mnMbNns726s"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-03T20:38:09Z",
+          "channelId": "UCCEuhjaT09ArS77AJm6etXw",
+          "title": "D66 staat op 4 zetels in de peilingen",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/mnMbNns726s/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/mnMbNns726s/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/mnMbNns726s/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "PVVpers",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-03T20:38:09Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "plmP_DbPiwbyqxj8rcapTVjzb4s",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "hmDXdNpaYMA"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-12T16:25:50Z",
+          "channelId": "UCxNAO8eeqqFB-AECp4GHR0A",
+          "title": "Rob Jetten | D66 | Buitenhof",
+          "description": "Aan tafel D66-lijsttrekker Rob Jetten over het opvoeren van druk richting de Isra\u00eblische regering, hoe klimaatbeleid het ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/hmDXdNpaYMA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/hmDXdNpaYMA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/hmDXdNpaYMA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Buitenhof",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-12T16:25:50Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "LwUzB0kxOplISqLpo34lNEoEy0U",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ZjDKJLVXPSw"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-30T09:06:03Z",
+          "channelId": "UCUSrVHoJrz68z3Q5qHZZC4w",
+          "title": "D66-leider Rob Jetten: &#39;logisch&#39; als NAVO kijkt naar Rutte",
+          "description": "D66-lijsttrekker Rob Jetten is niet verrast dat demissionair premier Mark Rutte waarschijnlijk een baan bij de NAVO ambieert.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ZjDKJLVXPSw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ZjDKJLVXPSw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ZjDKJLVXPSw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "WNL",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-30T09:06:03Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "PiKwsHgXEsvAXFwNLNZXWgSGfc4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "lhOh8Rov04M"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-02T10:15:46Z",
+          "channelId": "UCI6DBNX5JTVECWNdiax56Rw",
+          "title": "D66 \u2014 Stop met haat verspreiden.",
+          "description": "Vrijheid van meningsuiting \u2260 vrijbrief voor haat verspreiden.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lhOh8Rov04M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lhOh8Rov04M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lhOh8Rov04M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "D66",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-02T10:15:46Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ZHgM8R-9jWvXnyAofUaWC5D24Os",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "v28saDIJ6Oc"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-20T19:21:06Z",
+          "channelId": "UCCEuhjaT09ArS77AJm6etXw",
+          "title": "Nederland heeft nu een asielcrisis omdat de VVD de afgelopen jaren het D66-beleid heeft uitgevoerd!",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/v28saDIJ6Oc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/v28saDIJ6Oc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/v28saDIJ6Oc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "PVVpers",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-20T19:21:06Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "TNBEdDtcNQ2dbMRbgwG42zGLb6E",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "eMhucPhqDz8"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-10T08:00:31Z",
+          "channelId": "UCI6DBNX5JTVECWNdiax56Rw",
+          "title": "D66 \u2014 Rob Jetten: &quot;250 euro klimaatbonus voor iedere Nederlander!&quot;",
+          "description": "Vervuilende bedrijven moeten vergroenen \u00f3f de eerlijke prijs betalen. We nemen op een verstandige en snelle manier afscheid ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/eMhucPhqDz8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/eMhucPhqDz8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/eMhucPhqDz8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "D66",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-10T08:00:31Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "wSErPEsZp6YaC-Glo-q36EAZcZc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "_8v4vicgoKc"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-24T10:58:32Z",
+          "channelId": "UCUSrVHoJrz68z3Q5qHZZC4w",
+          "title": "D66-prominent Rinnooy Kan: &#39;Nog nooit zo\u2019n bijzonder begaafde groep bewindslieden afgevaardigd&#39;",
+          "description": "Voor D66-prominent Alexander Rinnooy Kan is het nog steeds een raadsel waarom zijn partij zo laag scoort in de peilingen.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_8v4vicgoKc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_8v4vicgoKc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_8v4vicgoKc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "WNL",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-24T10:58:32Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "yPVnWgjr6oEuUhDgDvMhN7kHWcM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "gaUHYgr0Dk0"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-05T06:23:12Z",
+          "channelId": "UCI6DBNX5JTVECWNdiax56Rw",
+          "title": "D66 \u2014 Het PRIDE verhaal van Dolly",
+          "description": "Er was een meisje dat voelde zich prettig en durfde toen voor het eerst te vertellen dat ze op meisjes viel. Twee maanden later ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/gaUHYgr0Dk0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/gaUHYgr0Dk0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/gaUHYgr0Dk0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "D66",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-05T06:23:12Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "3QCvb6rvlkUOS2iTgefsE-EaCf0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "9AJbzeRuQ2Y"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-23T13:42:55Z",
+          "channelId": "UCI6DBNX5JTVECWNdiax56Rw",
+          "title": "Een dag op het D66-congres",
+          "description": "Bekijk de hele speech: https://youtu.be/umQU1kJOco4?si=BHskuMeTDJjDeUDB #shorts.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/9AJbzeRuQ2Y/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/9AJbzeRuQ2Y/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/9AJbzeRuQ2Y/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "D66",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-23T13:42:55Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "s2p-iv06X_8OgOgAiw9jhUdQTuY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "2y7HD0UbUE0"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-12T19:00:02Z",
+          "channelId": "UChzF-1dZ7hXl8XKAR8RGw1Q",
+          "title": "Hoe belangrijk is diversiteit voor D66? | Plakshot (S5)",
+          "description": "Hoe komt het dat inclusiviteit zo hoog bij D66 in het vaandel staat? In Plakshot geeft Roel Maalderink met straatinterviews, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2y7HD0UbUE0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2y7HD0UbUE0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2y7HD0UbUE0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Plakshot | VPRO",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-12T19:00:02Z"
+        }
+      }
+    ]
+  },
+  {
+    "kind": "youtube#searchListResponse",
+    "etag": "aDP40Y8BDVrZJgguSPoqpbLtqM4",
+    "nextPageToken": "CGQQAA",
+    "prevPageToken": "CDIQAQ",
+    "regionCode": "NL",
+    "pageInfo": {
+      "totalResults": 45197,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "RRF6jIn0NtcudEacjHLckAOVRc4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "oucwJcxF70o"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-14T11:34:28Z",
+          "channelId": "UCUSrVHoJrz68z3Q5qHZZC4w",
+          "title": "Ook voormalig D66-leider Alexander Pechtold kritisch op Pieter Omtzigt",
+          "description": "Voormalig D66-leider Alexander Pechtold denkt niet dat zelfstandig Kamerlid Pieter Omtzigt geschikt is als leider van een ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/oucwJcxF70o/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/oucwJcxF70o/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/oucwJcxF70o/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "WNL",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-14T11:34:28Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Z73cQrNR4xjIO-CiZdI07cKJW9w",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "CZT-798Isyk"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-06T13:00:08Z",
+          "channelId": "UCTAJA5ySvTzNDxu5EN2-Ijg",
+          "title": "De Groot (D66) wil boeren verbieden om naar de rechter te gaan: &quot;Het is een DEMOCRATISCH recht!&quot;",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/CZT-798Isyk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/CZT-798Isyk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/CZT-798Isyk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Politiek TV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-06T13:00:08Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "RFyw_kdUZYykv3VhoG_dQpJSS1E",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "irZCvChTV_E"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-20T18:42:44Z",
+          "channelId": "UClRJ0fR9SrsdDSp0_na5Wew",
+          "title": "TERUGKIJKEN: EenVandaag Verkiezingsdebat | NPO Radio 1",
+          "description": "De lijsttrekkers Dilan Ye\u015filg\u00f6z (VVD), Pieter Omtzigt (NSC), Frans Timmermans (GroenLinks-PvdA), Geert Wilders (PVV), Caroline ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/irZCvChTV_E/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/irZCvChTV_E/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/irZCvChTV_E/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "NPO Radio 1",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-20T18:42:44Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "9Q5Jk98edSHUs7Du1KuFnalo11g",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "qgXeL2MMOlM"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-16T11:50:43Z",
+          "channelId": "UCUSrVHoJrz68z3Q5qHZZC4w",
+          "title": "Wat vinden mensen op straat van Rob Jetten (D66)? &#39;Hij is niet onaardig&#39;",
+          "description": "In aanloop naar de verkiezingen gaat politiek verslaggever van WNL Tessa van Viegen gaat 'De Markt Op', om aan burgers te ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qgXeL2MMOlM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qgXeL2MMOlM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qgXeL2MMOlM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "WNL",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-16T11:50:43Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "hnJvf4h42W3_MkeAQoctnulCsmQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "KOPte50MsZY"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-25T17:00:19Z",
+          "channelId": "UC1Et9K-hHf-P_LzQkE_Q3Jw",
+          "title": "Paternotte vult Stemwijzer in: &#39;23% FvD&#39;",
+          "description": "De Stemwijzer is woensdagochtend weer online gegaan. Nederlanders die nog niet weten op wie zij moeten stemmen tijdens de ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/KOPte50MsZY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/KOPte50MsZY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/KOPte50MsZY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "De Telegraaf",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-25T17:00:19Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "f4Dwf-l52oniNmiQYcMRvN97N8w",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "H98-W9uttg8"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-06T07:10:38Z",
+          "channelId": "UCUSrVHoJrz68z3Q5qHZZC4w",
+          "title": "D66 wil niets controversieel verklaren: &#39;Niet op onze handen gaan zitten, maar doorwerken&#39;",
+          "description": "D66 wil geen onderwerpen controversieel verklaren. Dat zegt fractievoorzitter van die partij Jan Paternotte in Goedemorgen ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/H98-W9uttg8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/H98-W9uttg8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/H98-W9uttg8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "WNL",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-06T07:10:38Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "rzVcSXOz4bbDSketW2sUH9vty7s",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "P25qMMPqAdA"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-05T13:26:55Z",
+          "channelId": "UCUSrVHoJrz68z3Q5qHZZC4w",
+          "title": "Paternotte (D66) haalt uit naar Timmermans: &#39;Medeverantwoordelijk voor rampzalige deal met dictator&#39;",
+          "description": "Fractievoorzitter van D66 Jan Paternotte heeft tijdens het debat met de runners-up in WNL Op Zondag stevig uitgehaald naar ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/P25qMMPqAdA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/P25qMMPqAdA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/P25qMMPqAdA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "WNL",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-05T13:26:55Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "COE5wgGA7P7BUlWf1hLf8aaosGc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "6Q9ypqWyN-w"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-11T08:53:54Z",
+          "channelId": "UCK5fS0xn3Dfy15pM6G0wgeQ",
+          "title": "Waarom stemmen mensen minder op de VVD, PvdA, CDA en D66?",
+          "description": "Matthijs Rooduijn doet onderzoek naar het kiesgedrag en de publieke opinie omtrent populisme. Matthijs zijn achtergrond is in ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6Q9ypqWyN-w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6Q9ypqWyN-w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6Q9ypqWyN-w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "UvA - Social Sciences & Behaviour",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-11T08:53:54Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "iKbfCG2f9VFo_hi1ioAWBouh3JY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "sSH_voZVnJQ"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-14T10:51:57Z",
+          "channelId": "UCUSrVHoJrz68z3Q5qHZZC4w",
+          "title": "Oud-D66-leider Pechtold steunt Jetten in kandidaatstelling voor lijsttrekker",
+          "description": "In Rob Jetten ziet oud-D66-leider Alexander Pechtold een goede opvolger van Sigrid Kaag, de huidige lijsttrekker die deze week ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/sSH_voZVnJQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/sSH_voZVnJQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/sSH_voZVnJQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "WNL",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-14T10:51:57Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "vOy-iL0Q35s-wziQpJJFaX-EEBc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "RpMpA45_p-0"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-15T10:00:33Z",
+          "channelId": "UCTAJA5ySvTzNDxu5EN2-Ijg",
+          "title": "Sjoerdsma (D66) raakt GE\u00cfRRITEERD: &quot;De EU is een GROTE POPPENKAST, Oekra\u00efne past er NIET bij!&quot;",
+          "description": "Deze video is gemaakt door PolitiekTV* Tijdens debat van 14-9-2023 Bedankt voor het kijken naar onze video! Abonneer voor ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/RpMpA45_p-0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/RpMpA45_p-0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/RpMpA45_p-0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Politiek TV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-15T10:00:33Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "8ea5YGOfh0xoMmzAru1vMLU7Ocg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "6Qhsurl5yjk"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-23T10:00:06Z",
+          "channelId": "UCTAJA5ySvTzNDxu5EN2-Ijg",
+          "title": "D66&#39;ers wijzen snel naar Bergkamp als Van der Plas &#39;te veel&#39; interrupties pleegt!",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6Qhsurl5yjk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6Qhsurl5yjk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6Qhsurl5yjk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Politiek TV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-23T10:00:06Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "UwFQZDa5Ve4-YVrdraJr1IVNv1c",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "91rnVpNogzg"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-05T10:00:09Z",
+          "channelId": "UCTAJA5ySvTzNDxu5EN2-Ijg",
+          "title": "Bosma (PVV): &quot;Prominente D66&#39;ers BEDREIGEN journalisten, D66 doet er NIKS tegen!&quot;",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/91rnVpNogzg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/91rnVpNogzg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/91rnVpNogzg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Politiek TV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-05T10:00:09Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "mTuxWuojEXawaUjIPJbVx-cXXUo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ZCjz4APkhos"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-16T10:00:21Z",
+          "channelId": "UCTAJA5ySvTzNDxu5EN2-Ijg",
+          "title": "Baudet (FVD) clasht met D66-voorzitter: &quot;Ik praat niet langer dan strikt noodzakelijk!&quot;",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ZCjz4APkhos/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ZCjz4APkhos/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ZCjz4APkhos/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Politiek TV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-16T10:00:21Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ag8m1_BatGFl3gtiSPJ75fwn3Ps",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "RZfv5xTTFjo"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-07T14:23:22Z",
+          "channelId": "UClRJ0fR9SrsdDSp0_na5Wew",
+          "title": "CDA, D66 en SP in debat over bestaanszekerheid - NOS Nederland Kiest | NPO Radio 1",
+          "description": "Henri Bontenbal (CDA), Rob Jetten (D66) en Lilian Marijnissen (SP) debatteren in het radiodebat van de NOS op NPO Radio 1 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/RZfv5xTTFjo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/RZfv5xTTFjo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/RZfv5xTTFjo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "NPO Radio 1",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-07T14:23:22Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "6z52Xa2-ZU45EmhvNB47Xf5byjQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "GMDCXUhWX0A"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-29T15:00:09Z",
+          "channelId": "UCHTtspK-G7Wt68awRpTSkiw",
+          "title": "PowCast: De Verkiezingen met Rob Jetten",
+          "description": "In PowCast: De Verkiezingen blikken we samen met een prominente politicus vooruit op de Tweede Kamer-verkiezingen op 22 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/GMDCXUhWX0A/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/GMDCXUhWX0A/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/GMDCXUhWX0A/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Omroep PowNed",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-29T15:00:09Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "keX7m_xO-Bnb7PRPn1NbKUwn3GY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "GJPGFf41czc"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-06T13:48:42Z",
+          "channelId": "UCE51aiJ30nQY14kFY021urg",
+          "title": "Tweede Kamer verklaart D66&#39;er Tjeerd de Groot CONTROVERSIEEL",
+          "description": "De Tweede Kamer is bezig met het al dan niet controversieel verklaren van allerhande onderwerpen zoals wetsvoorstellen, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/GJPGFf41czc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/GJPGFf41czc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/GJPGFf41czc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "GeenStijl",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-06T13:48:42Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "RwRYxkX32GOCSVF5TezI2yGTrT4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "_zYkiBYCJwQ"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-10T16:45:01Z",
+          "channelId": "UC1Et9K-hHf-P_LzQkE_Q3Jw",
+          "title": "Rutte laat zich gaan tegen Paternotte",
+          "description": "Mark Rutte reageert fel op een vraag van Jan Paternotte (D66). Hij voelt zich geframed en vindt dat de D66'er zich ver onder zijn ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_zYkiBYCJwQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_zYkiBYCJwQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_zYkiBYCJwQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "De Telegraaf",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-10T16:45:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "MxbxRBPoQu29e5MZq9eayMTt7ZA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "UxaiUJkHiRo"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-16T21:30:26Z",
+          "channelId": "UCCJWCNoQx13dalH5nu2wXKg",
+          "title": "Omtzigt wijst D66-troela terecht! &#39;Hierdoor belanden mensen in de VOEDSELBANK!&#39;",
+          "description": "Omtzigt wijst D66-troela terecht! 'Hierdoor belanden mensen in de VOEDSELBANK!'",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/UxaiUJkHiRo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/UxaiUJkHiRo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/UxaiUJkHiRo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "KafkaNL",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-16T21:30:26Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "fBN7KyXVaujMnwH7l-5wBl4J7kw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "1UFc1fZqNrY"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-14T09:37:41Z",
+          "channelId": "UCj37EjsXSPmZU5Xjbk5IAIw",
+          "title": "Sigrid Kaag wordt niet nog een keer lijsttrekker van D66 | Op1",
+          "description": "Sigrid Kaag wordt niet nog een keer lijsttrekker van D66. Ze kiest voor haar gezin, dat de bedreigingen aan haar adres niet langer ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/1UFc1fZqNrY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/1UFc1fZqNrY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/1UFc1fZqNrY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Op1",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-14T09:37:41Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "eaL72DX-PO-dStyu8q2LPkyz3Yw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "NOf9KpvW3KI"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-24T06:00:08Z",
+          "channelId": "UCj37EjsXSPmZU5Xjbk5IAIw",
+          "title": "D66-lijsttrekker Rob Jetten over de situatie in Isra\u00ebl en Gaza | Op1",
+          "description": "D66-lijsttrekker Rob Jetten over de situatie in Isra\u00ebl en Gaza. \u201cHet westen moet alles op alles zetten voor een humanitaire pauze ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/NOf9KpvW3KI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/NOf9KpvW3KI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/NOf9KpvW3KI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Op1",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-24T06:00:08Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "hb3s63RcPCFnlSQt0FV0Z-C7chA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "R4hVu6j5p_4"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-06T19:23:42Z",
+          "channelId": "UCI6DBNX5JTVECWNdiax56Rw",
+          "title": "D66 Shorts \u2014 Nieuwe Energie voor Nederland | Rob Jetten spreekt in Zwolle",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/R4hVu6j5p_4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/R4hVu6j5p_4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/R4hVu6j5p_4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "D66",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-06T19:23:42Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "xMJBN9qYEQOh6QPxIlDULFQs3Bw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "2TUJqOPJvmA"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-08T18:00:02Z",
+          "channelId": "UCWALr0VavEm8SgPXGafhFDQ",
+          "title": "Jan Paternotte (D66) haalt uit: &#39;Rechtse partijen laten mensen vallen&#39;",
+          "description": "Dit is een fragment uit The Daily Move met presentatoren Liesbeth Staats en Kees Dorresteijn. Te gast zijn politiek verslaggever ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2TUJqOPJvmA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2TUJqOPJvmA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2TUJqOPJvmA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "BNR",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-08T18:00:02Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "wYJxhvM-__4Yq-VBulk--P695O4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "5N6EavZAC9s"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-21T10:00:05Z",
+          "channelId": "UCTAJA5ySvTzNDxu5EN2-Ijg",
+          "title": "Omtzigt VS De Groot (D66): &quot;U leeft in een TOTAAL andere WERELD, u wil is nog altijd GEEN wet!&quot;",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/5N6EavZAC9s/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/5N6EavZAC9s/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/5N6EavZAC9s/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Politiek TV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-21T10:00:05Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "-Rn0EKhvPyvfNxxZey4dIgEYah8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "rL6W4iNH3F4"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-11T19:46:59Z",
+          "channelId": "UCisDV4UW8boGqZgtBrG0F_A",
+          "title": "Leon (PVV) pakt D66 aan! &#39;Het kabinet is DEMISSIONAIR!&#39;",
+          "description": "Leon (PVV) pakt D66 aan! 'Het kabinet is DEMISSIONAIR!' Deze video is volledig gemaakt door Politiek inzicht. De opname en ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/rL6W4iNH3F4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/rL6W4iNH3F4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/rL6W4iNH3F4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Politiek Inzicht",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-11T19:46:59Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "TapLByXYAnFYJlj_6CTInLMmHu0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Z1LDaianNmU"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-15T07:50:01Z",
+          "channelId": "UCCJWCNoQx13dalH5nu2wXKg",
+          "title": "Gideon SLOOPT D66! Ik ben WIT, niet BLANK! \ud83d\ude02",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Z1LDaianNmU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Z1LDaianNmU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Z1LDaianNmU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "KafkaNL",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-15T07:50:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "WLfy77sr_0naRc6moxXb58v-APc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "qSBQ9KYdVjk"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-07T11:25:25Z",
+          "channelId": "UCUSrVHoJrz68z3Q5qHZZC4w",
+          "title": "Ex-D66&#39;er Sophie in &#39;t Veld: &#39;Ik wil D66 niet beschadigen&#39;",
+          "description": "Voormalig D66-Europarlementari\u00ebr Sophie in 't Veld zei haar vertrouwen op in de partij en sloot zich aan bij Volt. Volgens in 't ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qSBQ9KYdVjk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qSBQ9KYdVjk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qSBQ9KYdVjk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "WNL",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-07T11:25:25Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "9NWfLXKXoCRh4sGLrZElKCZjlgA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "V3aKaeHXM4Q"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-21T21:16:31Z",
+          "channelId": "UC5xziMuoFAOpX9mwUVhe2Jw",
+          "title": "TERUGKIJKEN | NOS Nederland Kiest: Het Debat (deel 2)",
+          "description": "De NOS bracht de avond voor de verkiezingen het slotdebat. In dit deel debatteerden de lijsttrekkers van VVD, PVV, CDA, NSC, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/V3aKaeHXM4Q/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/V3aKaeHXM4Q/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/V3aKaeHXM4Q/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "NOS",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-21T21:16:31Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "m3ztkJzwT1azlp8z5RAoLmLV0O0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "qLOE6yMj-Gc"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-24T12:00:44Z",
+          "channelId": "UCTAJA5ySvTzNDxu5EN2-Ijg",
+          "title": "Wilders (PVV) VS D66: &quot;We gaan toch GEEN OORLOG voeren tegen Rusland? Je kan NIET iedereen helpen!&quot;",
+          "description": "Deze video is gemaakt door PolitiekTV* Tijdens debat van 20-9-2023 Bedankt voor het kijken naar onze video! Abonneer voor ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qLOE6yMj-Gc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qLOE6yMj-Gc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qLOE6yMj-Gc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Politiek TV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-24T12:00:44Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "HZY98U3DTZ1jDjdZVjRuZ3NOkwA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "aoeNP5v2ATU"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-03T06:38:54Z",
+          "channelId": "UCI6DBNX5JTVECWNdiax56Rw",
+          "title": "D66 Shorts \u2014 Het PRIDE verhaal van Paul",
+          "description": "Na de verkiezingen in november wil ik de volgende dag wakker worden met hopelijk een progressief beleid. Waarbij we kijken ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/aoeNP5v2ATU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/aoeNP5v2ATU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/aoeNP5v2ATU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "D66",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-03T06:38:54Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "k7mDaDWfZM1v5MuqtWwgy2nOLvQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "o1bAKjCvnNU"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-25T13:00:44Z",
+          "channelId": "UCTAJA5ySvTzNDxu5EN2-Ijg",
+          "title": "Van der Plas (BBB) VS D66: &quot;D66 WEIGERT verantwoordelijkheid te nemen als het moeilijk wordt!&quot;",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/o1bAKjCvnNU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/o1bAKjCvnNU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/o1bAKjCvnNU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Politiek TV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-25T13:00:44Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "-KE83FzLsLOePkE0r1osL5F4QgE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "a-0wfb0zfbE"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-21T18:44:30Z",
+          "channelId": "UCQiKpd7BsEXA-WsDsKvh_4g",
+          "title": "Vlog van Sieta: &quot;Tot aan de laatste dag is er de onbetrouwbare overheid VVD, ChristenUnie, D66, CDA&quot;",
+          "description": "Stem aub niet op de onbetrouwbare beloftes. Er is niks wat we kunnen verwachten van de oude politiek. StemZeWeg Vergeet niet ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/a-0wfb0zfbE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/a-0wfb0zfbE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/a-0wfb0zfbE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Farmers Defence Force",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-21T18:44:30Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "zMmBo0qWR_E-0q9zyEPC8P0AhHc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "4szQ9HYAPq8"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-08T13:00:03Z",
+          "channelId": "UCTAJA5ySvTzNDxu5EN2-Ijg",
+          "title": "Van der Plas (BBB) clasht met D66-voorzitter: &quot;Sjoerdsma WEIGERT te antwoorden op mijn vraag!&quot;",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/4szQ9HYAPq8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/4szQ9HYAPq8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/4szQ9HYAPq8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Politiek TV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-08T13:00:03Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "TSfaYGM49kOs15Lu9NIz59do0qg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "bt-HHWYBCrM"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-09T21:55:13Z",
+          "channelId": "UCCJWCNoQx13dalH5nu2wXKg",
+          "title": "Gideon SLOOPT D66 op hilarische wijze! &#39;Ik ben niet WIT, dit papier is WIT, ik ben BLANK!&#39;",
+          "description": "Gideon SLOOPT D66 op hilarische wijze! 'Ik ben niet WIT, dit papier is WIT, ik ben BLANK!'",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bt-HHWYBCrM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bt-HHWYBCrM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bt-HHWYBCrM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "KafkaNL",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-09T21:55:13Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "74oT9LLPkNmoQ80cV0nVSErkIWM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "bWzoL1YJ77M"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-31T09:00:21Z",
+          "channelId": "UCI6DBNX5JTVECWNdiax56Rw",
+          "title": "D66 \u2014 Het PRIDE verhaal van Robbert",
+          "description": "Blijven terugduwen. Blijven doorgaan. Zo zorgen we ervoor dat er uiteindelijk ruimte is voor iedereen in de Nederlandse ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bWzoL1YJ77M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bWzoL1YJ77M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bWzoL1YJ77M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "D66",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-31T09:00:21Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "KflcoUTp9jD1HDUhXzY3Ls1lE0E",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "XmU_ldnlGxs"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-26T12:00:27Z",
+          "channelId": "UCTAJA5ySvTzNDxu5EN2-Ijg",
+          "title": "Baudet (FVD) VS Paternotte (D66): &quot;Ben ik een vrouw?&quot;",
+          "description": "Deze video is gemaakt door PolitiekTV* Tijdens debat van 20-9-2023 Bedankt voor het kijken naar onze video! Abonneer voor ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/XmU_ldnlGxs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/XmU_ldnlGxs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/XmU_ldnlGxs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Politiek TV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-26T12:00:27Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "JZn6J0H3pWF8iByuCN0VYhJfZVQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "qfrD5q3lkeQ"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-29T15:00:41Z",
+          "channelId": "UCv4NUJ5BGSpJz_leIfayDzQ",
+          "title": "D66&#39;er is slechts anderhalve dag Kamerlid",
+          "description": "D66'er Carline van Breugel werd woensdagmiddag ge\u00efnstalleerd als Tweede Kamerlid. Inmiddels is de Kamer alweer met reces ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qfrD5q3lkeQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qfrD5q3lkeQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qfrD5q3lkeQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "RTL Nieuws",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-29T15:00:41Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "3mOYlLs2dWmxJ7hUQRF074ydyvg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "IoZPRFtmssc"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-02T06:40:16Z",
+          "channelId": "UCI6DBNX5JTVECWNdiax56Rw",
+          "title": "D66 \u2014 Het PRIDE verhaal van Sjoerd",
+          "description": "Ik kan mij geen wereld voorstellen waarin de Pride-maand overbodig is. Emancipatie vraagt altijd onderhoud. We moeten juist ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/IoZPRFtmssc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/IoZPRFtmssc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/IoZPRFtmssc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "D66",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-02T06:40:16Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "dP9SifVJcnvBOF_9rZJHGRkS0YQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "LDsPQEE03no"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-02T20:44:41Z",
+          "channelId": "UCI6DBNX5JTVECWNdiax56Rw",
+          "title": "D66 \u2014 Nieuwe Energie voor Nederland | Rob Jetten spreekt in Zwolle",
+          "description": "We hebben nu een unieke kans voor verandering. Dit is het moment voor zulke harde klimaatactie dat we eraan gaan verdienen.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/LDsPQEE03no/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/LDsPQEE03no/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/LDsPQEE03no/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "D66",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-02T20:44:41Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "QDGNYHe3-BlozkVUYu1FP3Epkko",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "SKsTOUmqCj0"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-25T18:41:01Z",
+          "channelId": "UCCJWCNoQx13dalH5nu2wXKg",
+          "title": "D66-GROUPIE wordt keihard UITGELACHEN! \ud83d\ude02",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/SKsTOUmqCj0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/SKsTOUmqCj0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/SKsTOUmqCj0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "KafkaNL",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-25T18:41:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "1h12DM2uRacei23b70AffiysaoM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "u29nVp-ldXQ"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-10T19:41:37Z",
+          "channelId": "UCmWL7BUZw-9QLuSVt7UrBIQ",
+          "title": "Debat &#39;Abortus: een mensenrecht?&#39; met Rob Jetten (D66) en Maaike Rosendal (CCBR)",
+          "description": "Op 6 november 2023 gingen Rob Jetten (D66) en Maaike Rosendal (CCBR) met elkaar in gesprek over abortus tijdens een ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/u29nVp-ldXQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/u29nVp-ldXQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/u29nVp-ldXQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "NPV- Zorg voor het leven",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-10T19:41:37Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "zL4srA50Pln42_gW9Z75HpCb_Ck",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "NQFG2R_sPGE"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-06T19:54:43Z",
+          "channelId": "UCisDV4UW8boGqZgtBrG0F_A",
+          "title": "SP&#39;er SLOOPT het hypocriete D66 volledig!",
+          "description": "SP'er SLOOPT het hypocriete D66 volledig! Deze video is volledig gemaakt door Politiek inzicht. De opname en de edit!",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/NQFG2R_sPGE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/NQFG2R_sPGE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/NQFG2R_sPGE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Politiek Inzicht",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-06T19:54:43Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "sMJlzG_UiVovmdXuvl-c0JaX2x4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "DZAY0Ixy6Gs"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-06T15:22:26Z",
+          "channelId": "UCCJWCNoQx13dalH5nu2wXKg",
+          "title": "Baudet zet arrogante D66&#39;er Sneller op zijn PLEK! &#39;Je kan toch normaal discussi\u00ebren?&#39;",
+          "description": "Baudet zet arrogante D66'er Sneller op zijn PLEK! 'Je kan toch normaal discussi\u00ebren?'",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DZAY0Ixy6Gs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DZAY0Ixy6Gs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DZAY0Ixy6Gs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "KafkaNL",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-06T15:22:26Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "aYOJMN2aDbNGGeMHDsmIFlMP_jg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "nWM_3T6pX_w"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-22T10:09:19Z",
+          "channelId": "UCUSrVHoJrz68z3Q5qHZZC4w",
+          "title": "D66-leider Jetten over keuzes Frans Timmermans: \u2018Onverstandig\u2019",
+          "description": "Volgens D66-lijsttrekker Rob Jetten is het \"onverstandig\" dat GroenLinks/PvdA-leider Frans Timmermans tegen het gebruik van ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/nWM_3T6pX_w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/nWM_3T6pX_w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/nWM_3T6pX_w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "WNL",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-22T10:09:19Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "XGYMhOQ-MTB8uW8fuxJuzJ04rZ4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "D31XfJVonuY"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-01T06:30:03Z",
+          "channelId": "UCI6DBNX5JTVECWNdiax56Rw",
+          "title": "D66 \u2014 Het PRIDE verhaal van Emre",
+          "description": "Ik hoop straks als geschiedenisdocent een veilige omgeving te cre\u00ebren voor mijn leerlingen. Waarin 'homo' niet het meest ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/D31XfJVonuY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/D31XfJVonuY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/D31XfJVonuY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "D66",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-01T06:30:03Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "SSNvX2cDsPLctcTz59T9G2EQv0A",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "n2zSl-m6jQw"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-03T09:56:14Z",
+          "channelId": "UCWALr0VavEm8SgPXGafhFDQ",
+          "title": "Rob Jetten over debat met Thierry Baudet: &#39;Antidemocratische haatpraat&#39;",
+          "description": "Dit is een fragment uit BNR's Big Five met Art Rooijakkers. Te gast is Rob Jetten, lijsttrekker van D66 - ze hebben het over het ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/n2zSl-m6jQw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/n2zSl-m6jQw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/n2zSl-m6jQw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "BNR",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-03T09:56:14Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "cSoOPz1sUjF2bjTy8HY_o-kXhEQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "mcB-AAkHF38"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-20T15:00:46Z",
+          "channelId": "UCPBPK_4TR5upBJuJBNjE4wA",
+          "title": "HILARISCH! Hermans (VVD) zet Jan Paternotte (D66) VOOR SCHUT!",
+          "description": "De VVD houdt de deur open voor samenwerking met de PVV in een nieuw kabinet. Dat heeft VVD-fractieleider Sophie Hermans ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/mcB-AAkHF38/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/mcB-AAkHF38/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/mcB-AAkHF38/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "MediaGround",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-20T15:00:46Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "KUNG37NjHJRoNW8E3l3glkSXaOk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "cNvCh_BcYco"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-11T17:39:09Z",
+          "channelId": "UCfM3wJkxDt3q_MdnemGgKsw",
+          "title": "Tjeerd de Groot (D66) valt Caroline van der Plas aan | Dat is zo&#39;n vileine, gemene opmerking!",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cNvCh_BcYco/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cNvCh_BcYco/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cNvCh_BcYco/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "BoerBurgerBeweging BBB",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-11T17:39:09Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "xs9HdvGI60Z1wHKqRgoptbHQ7mI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "5m2Hjt41Z4c"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-14T16:00:06Z",
+          "channelId": "UCDYrH_5X0VcoQfCUPsTOw3g",
+          "title": "Wilders (PVV) is Jetten (D66) zat! &#39;&#39;Mensen moeten een huis hebben, met je zonnepanelen!&#39;&#39;",
+          "description": "Verkiezingsdebat RTL 2023 Wil je meer Debatten uit de Tweede Kamer zien? druk dan eenvoudig op ABONNEREN \u2713 Geef de ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/5m2Hjt41Z4c/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/5m2Hjt41Z4c/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/5m2Hjt41Z4c/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Politiek Correct",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-14T16:00:06Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "fhnHh1CrIj-0EpMb4YZhmOnrJEc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "MKsYxxlQLoo"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-01T13:20:04Z",
+          "channelId": "UCYHDWIIOQi2uFg5terggE4g",
+          "title": "Tweede kamer verkiezingen 2023: D66",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MKsYxxlQLoo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MKsYxxlQLoo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MKsYxxlQLoo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Netbeheer Nederland",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-01T13:20:04Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "MwL2Cl_ydMg8c7JQOhR6MVzX1zo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "qmvEBPNzJf8"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-17T13:00:40Z",
+          "channelId": "UCTAJA5ySvTzNDxu5EN2-Ijg",
+          "title": "Agema (PVV) is WOEST op D66: &quot;U wil Nederland helemaal KAPOT maken, daarom komt u NIET met feiten!&quot;",
+          "description": "Deze video is gemaakt door PolitiekTV* Tijdens debat van 14-9-2023 Bedankt voor het kijken naar onze video! Abonneer voor ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qmvEBPNzJf8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qmvEBPNzJf8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qmvEBPNzJf8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Politiek TV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-17T13:00:40Z"
+        }
+      }
+    ]
+  }
+]

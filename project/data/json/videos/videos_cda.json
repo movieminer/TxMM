@@ -1,0 +1,3427 @@
+[
+  {
+    "kind": "youtube#searchListResponse",
+    "etag": "ev3Y8BU0NEubKFycXXFPPJQ0jfA",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "NL",
+    "pageInfo": {
+      "totalResults": 69363,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Wcdfe1M4xsBbgele6ys3b6MMFL4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "WgvqUyfS0cg"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-21T08:34:10Z",
+          "channelId": "UC5xziMuoFAOpX9mwUVhe2Jw",
+          "title": "TERUGKIJKEN | Henri Bontenbal (CDA) beantwoordt jullie vragen",
+          "description": "Van 6 t/m 21 november legt verslaggever Albert Bos iedere werkdag om 9.15 uur jullie vragen live voor aan een lijsttrekker.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/WgvqUyfS0cg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/WgvqUyfS0cg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/WgvqUyfS0cg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "NOS",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-21T08:34:10Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "691igTjVaj9t4AB0MaNNzKifYXI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ga3XQVqct1s"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-19T22:52:25Z",
+          "channelId": "UCa0ZzQSRbv_OVlZPDc5Xqqw",
+          "title": "Henri Bontenbal (CDA) te gast bij Renze Op Zondag",
+          "description": "Henri Bontenbal (CDA) te gast bij Renze Op Zondag, met aan tafel Alexander Pechtold, Sanne Wallis de Vries en Floor Bremer.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ga3XQVqct1s/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ga3XQVqct1s/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ga3XQVqct1s/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CDA",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-19T22:52:25Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "915HQKHYvpMTNGj-x45gK8B2lfw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "_xou1hFhkMU"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-19T19:34:18Z",
+          "channelId": "UCa0ZzQSRbv_OVlZPDc5Xqqw",
+          "title": "Henri Bontenbal (CDA) de Jeugdjournaal Verkiezingsuitzending",
+          "description": "Tijdens deze uitzending praten presentatoren Joris en Evita met Henri Bontenbal (CDA), Dilan Yesilg\u00f6z (VVD), Frans ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_xou1hFhkMU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_xou1hFhkMU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_xou1hFhkMU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CDA",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-19T19:34:18Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "nOxzFYDG-ggDhsVWnCR7c3S-_8M",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "8ZpyjoWes-E"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-18T19:23:18Z",
+          "channelId": "UCa0ZzQSRbv_OVlZPDc5Xqqw",
+          "title": "Henri Bontenbal (CDA) in debat met Esther Ouwehand (PvdD) over kernenergie in Zeeland",
+          "description": "Henri Bontenbal (CDA) in debat met Esther Ouwehand (PvdD) over kernenergie in Zeeland tijdens het Debat van het Zuiden.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/8ZpyjoWes-E/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/8ZpyjoWes-E/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/8ZpyjoWes-E/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CDA",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-18T19:23:18Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "NHmhPt2u5yHjEorkY4sfcDRyMBI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "MkFV9eoYchM"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-14T14:15:01Z",
+          "channelId": "UCa0ZzQSRbv_OVlZPDc5Xqqw",
+          "title": "Henri Bontenbal voor een fatsoenlijk land.",
+          "description": "\"Ik sta voor een fatsoenlijk land waar omzien naar elkaar en waarden en normen niet ouderwets maar juist vanzelfsprekend zijn.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MkFV9eoYchM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MkFV9eoYchM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MkFV9eoYchM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CDA",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-14T14:15:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "TCJfbsX8lUsRoBxWplPo1DoKkjQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "qPbYauk2cgY"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-16T20:34:28Z",
+          "channelId": "UCa0ZzQSRbv_OVlZPDc5Xqqw",
+          "title": "Henri Bontenbal (CDA) in debat met Mirjam Bikker (CU) over migratie",
+          "description": "Stelling: onze zorg en economie kunnen niet zonder arbeidsmigranten ND Verkiezingsdebat.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qPbYauk2cgY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qPbYauk2cgY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qPbYauk2cgY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CDA",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-16T20:34:28Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "gA3hdDsKmOrpSSDM1TVyQZn-Z7c",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "-P7h_R8f-z4"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-14T20:30:42Z",
+          "channelId": "UCa0ZzQSRbv_OVlZPDc5Xqqw",
+          "title": "Henri Bontenbal (CDA) in debat met Lilian Marijnissen (SP) over ongelijkheid en klimaat",
+          "description": "Henri Bontenbal (CDA) in debat met Lilian Marijnissen (SP) over ongelijkheid en klimaat bij Khalid en Sophie.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-P7h_R8f-z4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-P7h_R8f-z4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-P7h_R8f-z4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CDA",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-14T20:30:42Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "d5ZiPFUqVUCV1oBp0gbq_yOIwJA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "vPSGsvdBN94"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-23T13:44:12Z",
+          "channelId": "UCa0ZzQSRbv_OVlZPDc5Xqqw",
+          "title": "Kijk live mee met het CDA Partijcongres!",
+          "description": "Kijk live mee met het CDA Partijcongres vanuit Den Bosch! Alle informatie over het congres kunt u vinden op ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vPSGsvdBN94/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vPSGsvdBN94/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vPSGsvdBN94/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CDA",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-23T13:44:12Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "3iHuutCKS3STdkJ7-tu59d65qR0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "cTkGEj5msHo"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-14T14:49:08Z",
+          "channelId": "UCa0ZzQSRbv_OVlZPDc5Xqqw",
+          "title": "Henri Bontenbal presenteert zich als nieuwe lijsttrekker CDA",
+          "description": "In Amersfoort presenteert Henri Bontenbal zich als de nieuwe lijsttrekker voor het CDA. Hij staat voor een fatsoenlijk land.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cTkGEj5msHo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cTkGEj5msHo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cTkGEj5msHo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CDA",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-14T14:49:08Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "xIEbmHYF1MjpZtmLsmlqqDBkxI8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "DTWHvrQ6h0k"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-23T15:30:56Z",
+          "channelId": "UCa0ZzQSRbv_OVlZPDc5Xqqw",
+          "title": "&quot;Een fatsoenlijk land.&quot; - Henri Bontenbal op het #CDAcongres",
+          "description": "\"Een fatsoenlijk land. Niet voor onszelf, maar voor ons allemaal!\" Met die woorden sloot Henri Bontenbal zijn toespraak op het ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DTWHvrQ6h0k/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DTWHvrQ6h0k/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DTWHvrQ6h0k/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CDA",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-23T15:30:56Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "vCYqC_t2drXHuPv4UUVyzPNJg8c",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "YOzQSf1-U_M"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-20T08:27:39Z",
+          "channelId": "UCUSrVHoJrz68z3Q5qHZZC4w",
+          "title": "Henri Bontenbal (CDA) over samenwerking met DENK: &#39;Heeft absoluut niet mijn voorkeur&#39;",
+          "description": "CDA-leider Henri Bontenbal ziet samenwerken met DENK \"absoluut\" niet zitten. Dat heeft te maken met pro-Palestinaleuzen van ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/YOzQSf1-U_M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/YOzQSf1-U_M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/YOzQSf1-U_M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "WNL",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-20T08:27:39Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "mAOpUDQaVmOYEcYB16YZqqbGqbA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "xuAmJg_XoqM"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-13T20:39:52Z",
+          "channelId": "UCa0ZzQSRbv_OVlZPDc5Xqqw",
+          "title": "Henri Bontenbal (CDA) in debat met Barbara Kathmann (PvdA/GL) over kernenergie",
+          "description": "Tijdens het Rotterdamse Verkiezingsdebat ging Henri Bontenbal (CDA) in debat met Barbara Kathmann (PvdA/GL) over de ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/xuAmJg_XoqM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/xuAmJg_XoqM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/xuAmJg_XoqM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CDA",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-13T20:39:52Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "K0nFtHagJovndPuAoqkCxk-F-LM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "y7irqJj-_1Q"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-20T17:10:00Z",
+          "channelId": "UCa0ZzQSRbv_OVlZPDc5Xqqw",
+          "title": "Wij kiezen voor het midden",
+          "description": "Soms lijkt het alsof we alleen nog maar kunnen schreeuwen. In de Tweede Kamer of op straat. Maar zo wordt samenleven \u00e9n ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/y7irqJj-_1Q/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/y7irqJj-_1Q/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/y7irqJj-_1Q/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CDA",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-20T17:10:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Upp67Ps3K0sd-Dp3duMxAp0RRp4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "LCQxQEv3LF0"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-07T15:25:49Z",
+          "channelId": "UCa0ZzQSRbv_OVlZPDc5Xqqw",
+          "title": "Henri Bontenbal bij Rutger Castricum in de Hofkar!",
+          "description": "Henri reist van zijn ouderlijk huis in Rotterdam-Zuid met Rutger Castricum naar het CDA-partijbureau in Den Haag. Samen praten ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/LCQxQEv3LF0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/LCQxQEv3LF0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/LCQxQEv3LF0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CDA",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-07T15:25:49Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "fEdKnMI03vkmqiSBMP-r-r5OtMU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "HTI2Oxnbfzw"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-13T22:45:18Z",
+          "channelId": "UCa0ZzQSRbv_OVlZPDc5Xqqw",
+          "title": "Henri Bontenbal te gast bij Op1",
+          "description": "Presentatie Sven Kockelmann en Tijs van den Brink, met aan tafel Hanke Bruins Slot en Annemarie Litjens.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/HTI2Oxnbfzw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/HTI2Oxnbfzw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/HTI2Oxnbfzw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CDA",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-13T22:45:18Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "c92sX78iTzwB9GAqxMqBTz5JEfo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "lifo3qKUaFc"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-22T14:51:21Z",
+          "channelId": "UCa0ZzQSRbv_OVlZPDc5Xqqw",
+          "title": "Gratis bier bestaat niet - HENRI De Podcast #2",
+          "description": "In deze aflevering: een liefdesverklaring van Sanne Wallis de Vries, de Algemene Politieke Beschouwingen, bestaanszekerheid, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lifo3qKUaFc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lifo3qKUaFc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lifo3qKUaFc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CDA",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-22T14:51:21Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "yZAkwOopcSBApBqXmkK0ldee5xU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "eR9Ynh4cWeA"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-16T05:30:19Z",
+          "channelId": "UCa0ZzQSRbv_OVlZPDc5Xqqw",
+          "title": "Hen... wie? - HENRI De Podcast #1",
+          "description": "In deze aflevering: Henri's wervelende start, 'Straaljager' Hannie van Leeuwen, Jonathan Sacks, Herman Finkers en Dostojevski.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/eR9Ynh4cWeA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/eR9Ynh4cWeA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/eR9Ynh4cWeA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CDA",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-16T05:30:19Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "uU_ZGRngvrcI1dSLsRy33-Z7aqU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "UjOiskpfb3I"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-22T10:39:22Z",
+          "channelId": "UClRJ0fR9SrsdDSp0_na5Wew",
+          "title": "Omtzigt of Bontenbal: wie is het nieuwe CDA? | NPO Radio 1",
+          "description": "Het slotdebat van de NOS was 'onverwacht emotioneel' voor voormalig CDA'er Pieter Omtzigt en de nieuwe lijstrekker Henri ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/UjOiskpfb3I/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/UjOiskpfb3I/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/UjOiskpfb3I/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "NPO Radio 1",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-22T10:39:22Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "WUdG5qXf5EEHpho7oDIZVBj4IFQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "IEkvCymJeUY"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-09T13:24:36Z",
+          "channelId": "UCExcZNwh_3Mwm4fF4VSiu2w",
+          "title": "Kan het CDA zich onderscheiden van BBB en NSC?",
+          "description": "Aan de teloorgang van het CDA lijkt voorlopig nog geen einde te komen. Ondanks rapport op rapport met analyses van wat er ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/IEkvCymJeUY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/IEkvCymJeUY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/IEkvCymJeUY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Nieuwsuur",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-09T13:24:36Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "QZ1shS-qLybLkocTAe4O71PeXFw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "-7rTJUXQLDU"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-20T17:30:55Z",
+          "channelId": "UCa0ZzQSRbv_OVlZPDc5Xqqw",
+          "title": "Volledige inbreng Henri Bontenbal tijdens de Algemene Politieke Beschouwingen",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-7rTJUXQLDU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-7rTJUXQLDU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-7rTJUXQLDU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CDA",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-20T17:30:55Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "XhGjfF4jVcXO0qEPxkckuIqMII4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "d9D8RjJZsaI"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-20T09:07:37Z",
+          "channelId": "UCUSrVHoJrz68z3Q5qHZZC4w",
+          "title": "CDA-lijsttrekker Bontenbal begrijpt voorstel Omtzigt voor zakenkabinet niet",
+          "description": "CDA-lijsttrekker Henri Bontenbal is geen voorstander van een kabinet met vakministers, zoals lijsttrekker van Nieuw Sociaal ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/d9D8RjJZsaI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/d9D8RjJZsaI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/d9D8RjJZsaI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "WNL",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-20T09:07:37Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "feMK8jPR7iJaSpB7Fr3tAPICfDM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "8F1q6j0KV2o"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-07T12:54:08Z",
+          "channelId": "UClRJ0fR9SrsdDSp0_na5Wew",
+          "title": "VVD, PVV en CDA in debat over migratie - NOS Nederland Kiest | NPO Radio 1",
+          "description": "Dilan Ye\u015filg\u00f6z (Volkspartij voor Vrijheid en Democratie), Geert Wilders (Partij voor de Vrijheid) en Henri Bontenbal ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/8F1q6j0KV2o/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/8F1q6j0KV2o/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/8F1q6j0KV2o/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "NPO Radio 1",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-07T12:54:08Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Yj-e5Esid9uN5QK3iXkstIbh0wM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "YnniNrGWhN4"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-17T19:26:08Z",
+          "channelId": "UCa0ZzQSRbv_OVlZPDc5Xqqw",
+          "title": "Stop met twijfelen! - HENRI De Podcast #9",
+          "description": "In deze aflevering: een week vol debatten, tijd voor nieuwe politiek, suikerbieten, heel veel inspiratie en ga 22 november ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/YnniNrGWhN4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/YnniNrGWhN4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/YnniNrGWhN4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CDA",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-17T19:26:08Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "WNxCQmzDt4DObnXLojVp5eoThlY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "dtqOl8WyI2w"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-02T05:00:26Z",
+          "channelId": "UCa0ZzQSRbv_OVlZPDc5Xqqw",
+          "title": "Een land met twee gezichten - Hannie van Leeuwen-lezing met Henri Bontenbal",
+          "description": "Een land met twee gezichten. Zo ziet Henri Bontenbal Nederland. In zijn Hannie van Leeuwen-lezing stelt hij dat Nederland niet ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/dtqOl8WyI2w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/dtqOl8WyI2w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/dtqOl8WyI2w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CDA",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-02T05:00:26Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ND_TSmOpRhh4AmCQCU4Zh4yZR44",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "_npeXlq34Do"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-16T06:00:11Z",
+          "channelId": "UCxvQFgr1AcMbS1rheMrn4uw",
+          "title": "Johan wordt nu al moe van nieuwe CDA-leider Bontenbal: &#39;Gereformeerde predikant&#39; | VANDAAG INSIDE",
+          "description": "Johan wordt nu al moe van de nieuwe CDA-leider Henri Bontenbal. Kijk iedere werkdag om 21.35u naar Vandaag Inside op ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_npeXlq34Do/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_npeXlq34Do/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_npeXlq34Do/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Vandaag Inside",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-16T06:00:11Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "LfFLjnBwwIzJ_229TGTWd6f3AX4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "fX_kB1b_mnA"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-14T10:22:17Z",
+          "channelId": "UClRJ0fR9SrsdDSp0_na5Wew",
+          "title": "Henri Bontenbal als CDA-redder? | NPO Radio 1",
+          "description": "Henri Bontenbal wordt vanmiddag gepresenteerd als lijsttrekker voor het CDA. Hij staat voor een enorme klus, zegt Joost Oranje ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/fX_kB1b_mnA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/fX_kB1b_mnA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/fX_kB1b_mnA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "NPO Radio 1",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-14T10:22:17Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "_fkpIIHNWlY1QTKJryp_F5PnVd4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ymOjTHcaEaw"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-04T19:37:10Z",
+          "channelId": "UCf63l7Wp_wX7T-5ChM_Km9Q",
+          "title": "Bontenbal (CDA) x Marijnissen (SP)",
+          "description": "In het NOS op 3 Verkiezingsprogramma gaan Henri Bontenbal (CDA) en Lilian Marijnissen (SP) in gesprek met twintigers en ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ymOjTHcaEaw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ymOjTHcaEaw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ymOjTHcaEaw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "NOS op 3",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-04T19:37:10Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "F_qYQYW4pC6T3bLdUb4hNxbXyDE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "N6lfijtbbQs"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-12T19:00:10Z",
+          "channelId": "UChzF-1dZ7hXl8XKAR8RGw1Q",
+          "title": "Op bezoek bij nieuwe, kleine partij CDA | Plakshot (S5)",
+          "description": "Het mooie van de Nederlandse democratie: iedereen telt mee. Niet alleen de grote partijen, maar ook de kleintjes, zoals het CDA.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/N6lfijtbbQs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/N6lfijtbbQs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/N6lfijtbbQs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Plakshot | VPRO",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-12T19:00:10Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "eRaACJfkdGui15UitlgvdI7F8PA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Rr15Ts6Nd-c"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-10T15:00:20Z",
+          "channelId": "UCc9UtFlOAs0jMq-jJoDk7eg",
+          "title": "Het Verkiezingsprogramma 2023 - Het CDA | RD",
+          "description": "Op 22 november mogen we weer met heel Nederland naar de stembus. Maar op welke partij moet je stemmen? Onze Haagse ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Rr15Ts6Nd-c/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Rr15Ts6Nd-c/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Rr15Ts6Nd-c/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Reformatorisch Dagblad",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-10T15:00:20Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "mkhCFeBUIFafVKsGag-yTklwPa4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "NvOdG3KD6po"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-17T18:20:28Z",
+          "channelId": "UCa0ZzQSRbv_OVlZPDc5Xqqw",
+          "title": "Henri Bontenbal in debat met Mirjam Bikker en Lilian Marijnissen over de woningmarkt bij EenVandaag",
+          "description": "Henri Bontenbal (CDA) in debat met Mirjam Bikker (CU) en Lilian Marijnissen (SP) over de woningmarkt bij EenVandaag.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/NvOdG3KD6po/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/NvOdG3KD6po/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/NvOdG3KD6po/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CDA",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-17T18:20:28Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "6vFDWKvjeAPaCV1-AOqYsNSFs2g",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "JvjgjBCorgo"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-29T14:50:00Z",
+          "channelId": "UCa0ZzQSRbv_OVlZPDc5Xqqw",
+          "title": "Henri Bontenbal bij BNR The Friday Move",
+          "description": "Presentatie Wilfred Genee en aan tafel Leendert Beekman en Sanne Wallis de Vries.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/JvjgjBCorgo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/JvjgjBCorgo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/JvjgjBCorgo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CDA",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-29T14:50:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "dGWLesbMWPNKvhAK-yW9jGQa1K8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "W320SY-0N04"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-06T06:15:02Z",
+          "channelId": "UCWALr0VavEm8SgPXGafhFDQ",
+          "title": "Voormalig CDA-Kamerlid Agnes Mulder: &#39;Verstandig als CDA oppositie in gaat&#39;",
+          "description": "Dit is een fragment uit The Daily Move met presentatoren Nina van den Dungen en Kees Dorresteijn. Te gast is voormalig ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/W320SY-0N04/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/W320SY-0N04/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/W320SY-0N04/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "BNR",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-06T06:15:02Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "HTqS2iB2MHWTvMcgNGnmgoJrNZQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "iL6PGMVm5T8"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-04T15:48:16Z",
+          "channelId": "UCWALr0VavEm8SgPXGafhFDQ",
+          "title": "Bontenbal (CDA) wil &#39;terug naar sociaal-conservatief karakter van toen&#39;",
+          "description": "Dit is een fragment uit The Daily Move met presentatoren Kees Dorresteijn en Liesbeth Staats. Te gast zijn politiek verslaggever ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/iL6PGMVm5T8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/iL6PGMVm5T8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/iL6PGMVm5T8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "BNR",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-04T15:48:16Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "HPwUgjezCg2xNExx0E20SZFfFc4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "QKRifMP1aeA"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-13T09:29:29Z",
+          "channelId": "UC-HiBittGslPfzkC22LcNGA",
+          "title": "Henri Bontenbal: Een gemiste kans voor het CDA",
+          "description": "Wil je op de hoogte blijven van nieuwe uploads, abonneer je dan (gratis) via deze link: https://bit.ly/3ck0Xix Maarten van Rossem ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/QKRifMP1aeA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/QKRifMP1aeA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/QKRifMP1aeA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Maarten van Rossem - De Podcast",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-13T09:29:29Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ZhClQXX0br1-0NrsK267SkfkITM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "2vcpy99uzXU"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-12T05:47:08Z",
+          "channelId": "UC-HiBittGslPfzkC22LcNGA",
+          "title": "Is het CDA nog te redden?",
+          "description": "Wil je op de hoogte blijven van nieuwe uploads, abonneer je dan (gratis) via deze link: https://bit.ly/3ck0Xix Historicus Maarten ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2vcpy99uzXU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2vcpy99uzXU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2vcpy99uzXU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Maarten van Rossem - De Podcast",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-12T05:47:08Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Myi3UB1AXad-1mdqZyQyq3lVrgU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "qVYRL3UjddM"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-13T10:59:15Z",
+          "channelId": "UCa0ZzQSRbv_OVlZPDc5Xqqw",
+          "title": "Henri Bontenbal bij de Libelle",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qVYRL3UjddM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qVYRL3UjddM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qVYRL3UjddM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CDA",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-13T10:59:15Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "nU-t6X-rUmtWZ34xYhEJn4-mAb4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ecfCxfJL6kQ"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-30T15:33:59Z",
+          "channelId": "UCWALr0VavEm8SgPXGafhFDQ",
+          "title": "CDA-leider verwacht geen grote overwinning BBB, maar Omtzigt gaat het CDA wel moeilijk maken",
+          "description": "Dit is een fragment uit BNR's Big Five met presentator Art Rooijakkers. Te gast is Henri Bontenbal, lijsttrekker van het CDA.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ecfCxfJL6kQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ecfCxfJL6kQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ecfCxfJL6kQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "BNR",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-30T15:33:59Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "FqoXIePC57HaOB7MB_z2MmmzqPs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "zFPsN8EhkSk"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-05T16:59:59Z",
+          "channelId": "UCagt7JeflSg-oP-7y9ayjYQ",
+          "title": "Hubert Bruls nieuwe lijsttrekker van het CDA? &#39;Ik weet van niets&#39;",
+          "description": "De populaire CDA-politica Mona Keijzer heeft haar lidmaatschap van de partij opgezegd. Volgens betrokkenen is de mogelijke ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/zFPsN8EhkSk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/zFPsN8EhkSk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/zFPsN8EhkSk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Omroep Gelderland",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-05T16:59:59Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "slClWp--SHn2_g-I0W6X77zAGS0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "u6MG_S5c7Eg"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-16T20:34:24Z",
+          "channelId": "UCa0ZzQSRbv_OVlZPDc5Xqqw",
+          "title": "Henri Bontenbal (CDA) in debat met Chris Stoffer (SGP) over de woningmarkt",
+          "description": "Stelling: er moet een wet komen die gemeenten verplicht dat 40 procent van de nieuwbouwhuizen naar starters en ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/u6MG_S5c7Eg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/u6MG_S5c7Eg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/u6MG_S5c7Eg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CDA",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-16T20:34:24Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "q2jGPYW9qhVPJg8Vc_g7b3rBsKw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "bN2XUUv1uvo"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-07T07:34:37Z",
+          "channelId": "UCj37EjsXSPmZU5Xjbk5IAIw",
+          "title": "Wie moet er bij nieuwe verkiezingen de lijsttrekker van het CDA worden? Mona Keijzer reageert | Op1",
+          "description": "Wie moet er bij nieuwe verkiezingen de lijsttrekker van het CDA worden? Mona Keijzer: ''Dat zou absoluut Wopke Hoekstra ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bN2XUUv1uvo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bN2XUUv1uvo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bN2XUUv1uvo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Op1",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-07T07:34:37Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Bm2ne6rrqwennippDRon0a_FD-s",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Tf9LiwT9poY"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-19T07:15:47Z",
+          "channelId": "UCWALr0VavEm8SgPXGafhFDQ",
+          "title": "CDA&#39;er: &#39;Leden vragen nog altijd of we Omtzigt kunnen terughalen&#39;",
+          "description": "Dit is een fragment uit The Daily Move met presentatoren Kees Dorresteijn en Liesbeth Staats. Te gast zijn Martine Wolzak, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Tf9LiwT9poY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Tf9LiwT9poY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Tf9LiwT9poY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "BNR",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-19T07:15:47Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ZYjKR9_ibKh5GTsZ_d8cQKp1Mv8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ufKG-4rnlYw"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-11T12:23:48Z",
+          "channelId": "UClRJ0fR9SrsdDSp0_na5Wew",
+          "title": "Anonieme bronnen CDA: &#39;je moet de journalist die het maakt vertrouwen&#39; | NPO Radio 1",
+          "description": "Naast een nieuwe lijsttrekker moet het CDA ook op zoek naar een nieuwe voorzitter. Hans Huibers stapte gisteren op. Directe ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ufKG-4rnlYw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ufKG-4rnlYw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ufKG-4rnlYw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "NPO Radio 1",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-11T12:23:48Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "olyJBaD2_63YmjHRVQ7nYnpstTM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "d-KMnL4Wmz0"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-05T12:17:36Z",
+          "channelId": "UCa0ZzQSRbv_OVlZPDc5Xqqw",
+          "title": "Pieter Heerma draagt het stokje over: Henri Bontenbal fractievoorzitter CDA!",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/d-KMnL4Wmz0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/d-KMnL4Wmz0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/d-KMnL4Wmz0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CDA",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-05T12:17:36Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "l3UbYg_0K0OJDm0mH93RdUgJae8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "JkaYpG7zABg"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-06T15:25:01Z",
+          "channelId": "UCa0ZzQSRbv_OVlZPDc5Xqqw",
+          "title": "&quot;Het is tijd voor de nieuwe generatie politici.&quot; - Henri Bontenbal bij Buitenhof.",
+          "description": "Als we echt naar een nieuwe politiek willen, is het ook tijd voor een nieuwe generatie politici. Dat zegt Henri Bontenbal bij ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/JkaYpG7zABg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/JkaYpG7zABg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/JkaYpG7zABg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CDA",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-06T15:25:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "dfFSNaEfPcsuz-0q2pI7ULpoGw8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "jla-UbFIx4M"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-12T17:15:01Z",
+          "channelId": "UC1Et9K-hHf-P_LzQkE_Q3Jw",
+          "title": "CDA-bolwerk snakt naar Omtzigt: &#39;Moeten diep door het stof&#39;",
+          "description": "Het rommelt bij het CDA: de partij zit na de aankondiging van Wopke Hoekstra zonder lijsttrekker. Ook Hugo de Jonge, Mona ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/jla-UbFIx4M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/jla-UbFIx4M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/jla-UbFIx4M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "De Telegraaf",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-12T17:15:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "2iiAZFTYgqz0_gUfRAHTswnynpk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "WakwnO2oZJ8"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-12T17:44:52Z",
+          "channelId": "UCUSrVHoJrz68z3Q5qHZZC4w",
+          "title": "Sjuul Paradijs over mogelijk CDA-leider Bontenbal: &#39;Met hem gaan ze het niet winnen&#39;",
+          "description": "Het partijbestuur van het CDA heeft huidig Kamerlid Henri Bontenbal (40) naar voren geschoven als ideale kandidaat om de ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/WakwnO2oZJ8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/WakwnO2oZJ8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/WakwnO2oZJ8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "WNL",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-12T17:44:52Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "0mwZoJXBFFBOlhPzQw6479fGdrk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "KiobMbswvMs"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-19T10:54:21Z",
+          "channelId": "UC-HiBittGslPfzkC22LcNGA",
+          "title": "CDA-leden willen Omtzigt terug",
+          "description": "Wil je op de hoogte blijven van nieuwe uploads, abonneer je dan (gratis) via deze link: https://bit.ly/3ck0Xix CDA-leden wil Pieter ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/KiobMbswvMs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/KiobMbswvMs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/KiobMbswvMs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Maarten van Rossem - De Podcast",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-19T10:54:21Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ReKwK82hB2HiPpZcIks4i8fohOk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ZyQXoq3CXoM"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-16T16:00:31Z",
+          "channelId": "UCvrHT6IRtd6nFu3GLY4yamw",
+          "title": "In de trekker met het CDA",
+          "description": "Eline Vedder combineert het Kamerlidmaatschap met een melkveebedrijf in Drenthe. Het CDA heeft de laatste tijd aan ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ZyQXoq3CXoM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ZyQXoq3CXoM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ZyQXoq3CXoM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Boerderij",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-16T16:00:31Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "TIuUhFrXCuAH32Hno__SeIAOnLY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "PLAW9h0E5pQ"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-05T16:38:05Z",
+          "channelId": "UCa0ZzQSRbv_OVlZPDc5Xqqw",
+          "title": "Hilde Palland voor een fatsoenlijk land.",
+          "description": "\"Familiebedrijven zijn de ruggengraat van onze economie.\" Stem 22 november op Hilde Palland voor een fatsoenlijk land!",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/PLAW9h0E5pQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/PLAW9h0E5pQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/PLAW9h0E5pQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CDA",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-05T16:38:05Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "tQJV9OuMI_qewIw2CxPEr5XkxmA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "hLXy4yjRQ8M"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-14T20:02:37Z",
+          "channelId": "UCUSrVHoJrz68z3Q5qHZZC4w",
+          "title": "CDA-lijsttrekker Bontenbal: &#39;Poort voor PVV en FVD blijft dicht&#39;",
+          "description": "De gloednieuwe lijsttrekker van het CDA, Henri Bontenbal, houdt de deur voor de PVV en FVD dicht. Lees meer: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/hLXy4yjRQ8M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/hLXy4yjRQ8M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/hLXy4yjRQ8M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "WNL",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-14T20:02:37Z"
+        }
+      }
+    ]
+  },
+  {
+    "kind": "youtube#searchListResponse",
+    "etag": "bDTLPzDGFes4ZTZI6OGU7ZevHtI",
+    "nextPageToken": "CGQQAA",
+    "prevPageToken": "CDIQAQ",
+    "regionCode": "NL",
+    "pageInfo": {
+      "totalResults": 66680,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "unPVDwh-khlSyvURi38ip2snHBM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "8T7jMVSsSr4"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-09T07:36:45Z",
+          "channelId": "UCj37EjsXSPmZU5Xjbk5IAIw",
+          "title": "Hugo de Jonge wordt niet de nieuwe lijsttrekker van het CDA | Op1",
+          "description": "Hugo de Jonge wordt niet de nieuwe lijsttrekker van het CDA. Dat vertelt hij in #Op1. \u201cDat is niet logisch.\u201d Kijk de hele uitzending ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/8T7jMVSsSr4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/8T7jMVSsSr4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/8T7jMVSsSr4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Op1",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-09T07:36:45Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "V8-8DIJZtSqV9VK-LlQiMIXiqf0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "J45rvzdbSsw"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-14T12:49:28Z",
+          "channelId": "UCUSrVHoJrz68z3Q5qHZZC4w",
+          "title": "CDA-leider Bontenbal vindt verkiezingscampagne &#39;bloedeloos&#39;: &#39;Ik mis de gretigheid&#39;",
+          "description": "CDA-lijsttrekker Henri Bontenbal vindt de verkiezingscampagne tot nu toe 'vrij bloedeloos'. \"Heel veel kopstukken hebben ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/J45rvzdbSsw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/J45rvzdbSsw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/J45rvzdbSsw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "WNL",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-14T12:49:28Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "qcCMpjqeaotuJNHVMXyzH7hiD4c",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "e9if50YMijE"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-15T14:00:34Z",
+          "channelId": "UC-bbHiTZGWKbsCjpzUfrk6Q",
+          "title": "Orgelspelen met Henri Bontenbal (CDA)",
+          "description": "De Tweede Kamerverkiezingen komen eraan: wat wil het CDA eigenlijk? Bart sprak erover met Henri Bontenbal, hij is de baas ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/e9if50YMijE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/e9if50YMijE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/e9if50YMijE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "NOS Jeugdjournaal",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-15T14:00:34Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "r9jQ4olevJry9zzr_pFsON3Rk44",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "BpXGuI16DpM"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-15T11:34:10Z",
+          "channelId": "UCUSrVHoJrz68z3Q5qHZZC4w",
+          "title": "CDA-prominent Gerd Leers: \u2018CDA moet PVV op voorhand niet uitsluiten\u2019",
+          "description": "Partijprominent Gerd Leers vindt het onverstandig dat CDA-lijstrekker Henri Bontenbal een samenwerking met de PVV op ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/BpXGuI16DpM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/BpXGuI16DpM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/BpXGuI16DpM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "WNL",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-15T11:34:10Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "RhcmCTGmdCv1nO0lKMDXT1EV6AM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "5AFtAYMJihU"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-12T07:32:49Z",
+          "channelId": "UCj37EjsXSPmZU5Xjbk5IAIw",
+          "title": "Wie moet de nieuwe lijsttrekker van het CDA worden? Fractievoorzitter Pieter Heerma reageert | Op1",
+          "description": "Wie moet de nieuwe lijsttrekker van het CDA worden? Afzwaaiend fractievoorzitter Pieter Heerma: ''Mijn hoop voor de toekomst ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/5AFtAYMJihU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/5AFtAYMJihU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/5AFtAYMJihU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Op1",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-12T07:32:49Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "bieyms8zxXtvv9XuNWSYorUhDOc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "cCUl7qMsI-g"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-15T17:00:17Z",
+          "channelId": "UCHTtspK-G7Wt68awRpTSkiw",
+          "title": "Niemand kent nieuwe CDA-leider Bontenbal",
+          "description": "Henri Bontenbal is de nieuwe leider van het amper nog noemenswaardige CDA. De partij die ooit stond voor boerenverstand en ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cCUl7qMsI-g/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cCUl7qMsI-g/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cCUl7qMsI-g/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Omroep PowNed",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-15T17:00:17Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "TIuUhFrXCuAH32Hno__SeIAOnLY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "PLAW9h0E5pQ"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-05T16:38:05Z",
+          "channelId": "UCa0ZzQSRbv_OVlZPDc5Xqqw",
+          "title": "Hilde Palland voor een fatsoenlijk land.",
+          "description": "\"Familiebedrijven zijn de ruggengraat van onze economie.\" Stem 22 november op Hilde Palland voor een fatsoenlijk land!",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/PLAW9h0E5pQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/PLAW9h0E5pQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/PLAW9h0E5pQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CDA",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-05T16:38:05Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "BYD3AXjEslvXbspKucAwF7vwkBA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ofZxmuFcOEM"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-16T11:01:07Z",
+          "channelId": "UCUSrVHoJrz68z3Q5qHZZC4w",
+          "title": "CDA-lijsttrekker Henri Bontenbal wil premier worden: &#39;Maar voeten aan de grond&#39;",
+          "description": "Mocht het CDA de aankomende Tweede Kamerverkiezingen winnen, dan wil lijsttrekker Henri Bontenbal minister-president ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ofZxmuFcOEM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ofZxmuFcOEM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ofZxmuFcOEM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "WNL",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-16T11:01:07Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "VxtadsSJ-q6uLuOB510EfwMHS2Y",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "vZDq14iAHFM"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-11T21:27:24Z",
+          "channelId": "UC-HiBittGslPfzkC22LcNGA",
+          "title": "Henri Bontenbal is kansloos als nieuwe CDA-leider: &#39;Er is maar \u00e9\u00e9n iemand die partij kan redden&#39;",
+          "description": "Wil je op de hoogte blijven van nieuwe uploads, abonneer je dan (gratis) via deze link: https://bit.ly/3ck0Xix Maarten van Rossem ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vZDq14iAHFM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vZDq14iAHFM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vZDq14iAHFM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Maarten van Rossem - De Podcast",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-11T21:27:24Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "2hx2uH2UeqakU6PI-fpOHM0EZCg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "WLfXCFPruJI"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-18T15:15:01Z",
+          "channelId": "UCWALr0VavEm8SgPXGafhFDQ",
+          "title": "&#39;Fusie tussen CDA en ChristenUnie over een paar jaar&#39;",
+          "description": "Dit is een fragment uit The Friday Move met Wilfred Genee. Aan tafel zitten Mona Keijzer (BBB) en Mats Akkerman om onder ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/WLfXCFPruJI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/WLfXCFPruJI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/WLfXCFPruJI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "BNR",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-18T15:15:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "E5Gg9H-UlnMMTFJyWXZ51BqdFi8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "PEXjBXe_WgA"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-30T14:44:31Z",
+          "channelId": "UCa0ZzQSRbv_OVlZPDc5Xqqw",
+          "title": "Een fatsoenlijk land: sterke gezinnen.",
+          "description": "In een fatsoenlijk land zetten we gezinnen op #1. Het CDA vergroot de bestaanszekerheid van gezinnen. Stem 22 november CDA ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/PEXjBXe_WgA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/PEXjBXe_WgA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/PEXjBXe_WgA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CDA",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-30T14:44:31Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "IYf4_7L4WNer05YHCVrLcU-XTEg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "214dU9TcV8s"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-05T09:11:59Z",
+          "channelId": "UCUSrVHoJrz68z3Q5qHZZC4w",
+          "title": "Bontenbal (CDA) over eventuele kabinetsdeelname: \u2018Gaan onze huid duur verkopen\u2019",
+          "description": "CDA-lijsttrekker Henri Bontenbal weet nog niet of hij met zijn partij wil deelnemen aan een nieuwe coalitie na de Tweede ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/214dU9TcV8s/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/214dU9TcV8s/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/214dU9TcV8s/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "WNL",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-05T09:11:59Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "TbCsGfppOrr50rQPuV64_XWskjM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "fNjG8q8T-IM"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-02T06:00:14Z",
+          "channelId": "UCj37EjsXSPmZU5Xjbk5IAIw",
+          "title": "Waarom ging Mona Keijzer niet terug naar het CDA? | Op1",
+          "description": "Ik heb geprobeerd dat schip weer terug te krijgen. Op een gegeven moment moet je concluderen dat dat niet meer bij elkaar past\u201d ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/fNjG8q8T-IM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/fNjG8q8T-IM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/fNjG8q8T-IM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Op1",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-02T06:00:14Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "VZUVycGVhX5jOky3Kv13SpZZquA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "NTLNi5U3LIk"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-30T09:42:39Z",
+          "channelId": "UCWALr0VavEm8SgPXGafhFDQ",
+          "title": "CDA-lijsttrekker: &#39;Geen enkele partij kan belofte om het land anders te besturen waarmaken&#39;",
+          "description": "Dit is een fragment uit BNR's Big Five met presentator Art Rooijakkers. Te gast is Henri Bontenbal, lijsttrekker van het CDA.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/NTLNi5U3LIk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/NTLNi5U3LIk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/NTLNi5U3LIk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "BNR",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-30T09:42:39Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "DT4XVCSAleXC5BaOgOa-tRbsRZg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "acZ8_0QafxI"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-05T17:04:01Z",
+          "channelId": "UCa0ZzQSRbv_OVlZPDc5Xqqw",
+          "title": "Jouke Spoelstra voor een fatsoenlijk land.",
+          "description": "\"Voor ieder dorp een straatje erbij.\" Stem 22 november op Jouke Spoelstra voor een fatsoenlijk land!",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/acZ8_0QafxI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/acZ8_0QafxI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/acZ8_0QafxI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CDA",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-05T17:04:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "36XQCSyiVChDadrg4xaY1dcm5JI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "tooEMr_fwfY"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-30T06:15:03Z",
+          "channelId": "UCWALr0VavEm8SgPXGafhFDQ",
+          "title": "Henri Bontenbal (CDA) boos over vraag: &#39;Ik ben het spuugzat&#39;",
+          "description": "Dit is een fragment uit The Friday Move met presentator Wilfred Genee en co-host Sanne Wallis de Vries. Te gast zijn CDA-leider ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/tooEMr_fwfY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/tooEMr_fwfY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/tooEMr_fwfY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "BNR",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-30T06:15:03Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "gdx0fGYpPZuxExZiyMziOSGmlH4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "9SU8XUbsUAQ"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-20T10:58:58Z",
+          "channelId": "UCUSrVHoJrz68z3Q5qHZZC4w",
+          "title": "Henri Bontenbal grapt: veertig zetels voor CDA",
+          "description": "Lijsttrekker van het CDA Henri Bontenbal hoopt op tien zetels voor zijn partij bij de Tweede Kamerverkiezingen woensdag.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/9SU8XUbsUAQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/9SU8XUbsUAQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/9SU8XUbsUAQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "WNL",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-20T10:58:58Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "lbQsLKshbwHHdR2IVKNbcwUhKVc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "G6etGcvnsag"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-20T09:47:59Z",
+          "channelId": "UCUSrVHoJrz68z3Q5qHZZC4w",
+          "title": "Henri Bontenbal (CDA) waarschuwt Pieter Omtzigt: Klimaatfonds nodig voor regie op klimaatbeleid",
+          "description": "Lijsttrekker Henri Bontenbal van het CDA maakt zich zorgen over het voorstel van Nieuw Sociaal Contract om het Klimaatfonds af ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/G6etGcvnsag/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/G6etGcvnsag/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/G6etGcvnsag/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "WNL",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-20T09:47:59Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "-m8NYQcefX45_65teSJNF4YLCgQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "IBpZc4A-Zrc"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-17T16:54:04Z",
+          "channelId": "UCTqT0F-lesokLQ7IZTLTjfQ",
+          "title": "Transmiss\u00e3o em Direto | CDA vs ACRAC | 1\u00ba Jornada  - Liga Comtesse Lisbonne",
+          "description": "CDATV\u200b\u200b #CDA\u200b\u200b #ClubeDesportivoDeAlcains\u200b#LigaComtesseLisbonne Subscrevam aqui o nosso canal de YouTube ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/IBpZc4A-Zrc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/IBpZc4A-Zrc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/IBpZc4A-Zrc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CDA TV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-17T16:54:04Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "LvWdOU2BISQcGE3z5EolRNFk8W4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "m9d9oDDMumY"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-17T14:48:59Z",
+          "channelId": "UCW1ZDlaCn-UlvZ5kQOzd1rA",
+          "title": "Lijsttrekkers | Henri Bontenbal (CDA) en Lilian Marijnissen (SP) | Khalid en Sophie",
+          "description": "In de week voor de verkiezingen schuiven er iedere dag twee lijsttrekkers aan bij Khalid en Sophie, met wie we steeds een aantal ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/m9d9oDDMumY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/m9d9oDDMumY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/m9d9oDDMumY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Khalid & Sophie",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-17T14:48:59Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "89Jg_smrJfmK_UAkHS-FsKHiHAc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "x0pV9_n2HNI"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-19T07:26:29Z",
+          "channelId": "UCa0ZzQSRbv_OVlZPDc5Xqqw",
+          "title": "Eline Vedder tijdens Het Grote Landbouwdebat 2023",
+          "description": "LTO Nederland en Nieuwe Oogst organiseerden Het Grote Landbouwdebat 2023 op woensdag 18 oktober. Vanuit een ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/x0pV9_n2HNI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/x0pV9_n2HNI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/x0pV9_n2HNI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CDA",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-19T07:26:29Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "bSdYZUglCDTe1hGAYXM9oIdKV7g",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ry5ZWVMQqDk"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-26T15:47:00Z",
+          "channelId": "UChxRZlJNYPVXi_CH6sYS5VQ",
+          "title": "PIETER OMTZIGT 31 zetels, CDA slechts DRIE zetels",
+          "description": "https://tpo.nl Dit is het TPO Audionieuws van zaterdag 26 augustus. Als er nu verkiezingen zouden worden gehouden zou nieuw ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ry5ZWVMQqDk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ry5ZWVMQqDk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ry5ZWVMQqDk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "ThePostOnline TPO",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-26T15:47:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Um0wMnkfYtdGvy5ChteTWhaQXbw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "UoRAxojF4lQ"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-27T14:46:59Z",
+          "channelId": "UClRJ0fR9SrsdDSp0_na5Wew",
+          "title": "Is partij van Omtzigt het nieuwe CDA? | NPO Radio 1",
+          "description": "Pieter Omtzigt's nieuwe partij NSC (Nieuw Sociaal Contract) presenteerde zijn kieslijst met 44 namen. Wat betekent dit voor de ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/UoRAxojF4lQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/UoRAxojF4lQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/UoRAxojF4lQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "NPO Radio 1",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-27T14:46:59Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "-KE83FzLsLOePkE0r1osL5F4QgE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "a-0wfb0zfbE"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-21T18:44:30Z",
+          "channelId": "UCQiKpd7BsEXA-WsDsKvh_4g",
+          "title": "Vlog van Sieta: &quot;Tot aan de laatste dag is er de onbetrouwbare overheid VVD, ChristenUnie, D66, CDA&quot;",
+          "description": "Stem aub niet op de onbetrouwbare beloftes. Er is niks wat we kunnen verwachten van de oude politiek. StemZeWeg Vergeet niet ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/a-0wfb0zfbE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/a-0wfb0zfbE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/a-0wfb0zfbE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Farmers Defence Force",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-21T18:44:30Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "2feJzKWSNUS3mnUiFM0r_OH34n8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "X8TKzVR4Bas"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-18T10:30:09Z",
+          "channelId": "UC_vt34wimdCzdkrzVejwX9g",
+          "title": "CDA launches crackdown against illegal constructions and encroachments",
+          "description": "CDA launches crackdown against illegal constructions and encroachments Do not miss an important news update ever.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/X8TKzVR4Bas/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/X8TKzVR4Bas/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/X8TKzVR4Bas/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Geo News",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-18T10:30:09Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "77U_oLHOkb4O4CODOHOPORRjXEg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "TRKPQQcrpWY"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-08T17:00:40Z",
+          "channelId": "UCTqT0F-lesokLQ7IZTLTjfQ",
+          "title": "Transmiss\u00e3o em Direto | CDA vs CA Fund\u00e3o  | 4\u00ba Jornada  - Liga Comtesse Lisbonne",
+          "description": "CDATV\u200b\u200b #CDA\u200b\u200b #ClubeDesportivoDeAlcains\u200b#LigaComtesseLisbonne Subscrevam aqui o nosso canal de YouTube ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/TRKPQQcrpWY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/TRKPQQcrpWY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/TRKPQQcrpWY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CDA TV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-08T17:00:40Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "l69TQC3CWPRL0LPW0fA0dR917sU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "kwNlRcnTNLk"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-05T17:30:51Z",
+          "channelId": "UCTqT0F-lesokLQ7IZTLTjfQ",
+          "title": "Transmiss\u00e3o em Direto | CDA vs Pedrog\u00e3o S.Pedro  | 8\u00ba Jornada  - Liga Comtesse Lisbonne",
+          "description": "CDATV\u200b\u200b #CDA\u200b\u200b #ClubeDesportivoDeAlcains\u200b#LigaComtesseLisbonne Subscrevam aqui o nosso canal de YouTube ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/kwNlRcnTNLk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/kwNlRcnTNLk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/kwNlRcnTNLk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CDA TV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-05T17:30:51Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "jNPXb1AshZcIKMOaOcue2dfVXg8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "42Cx2A4XL9w"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-10T18:50:06Z",
+          "channelId": "UClRJ0fR9SrsdDSp0_na5Wew",
+          "title": "TERUGKIJKEN: Henri Bontenbal (CDA) in het DIDD Verkiezingscaf\u00e9 | NPO Radio 1",
+          "description": "Verschillende lijsttrekkers brengen de komende tijd een bezoek aan het Dit is de Dag (DIDD) Verkiezingscaf\u00e9. Het mooie is dat jij ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/42Cx2A4XL9w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/42Cx2A4XL9w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/42Cx2A4XL9w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "NPO Radio 1",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-10T18:50:06Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "xCeW0g6zDs2yKyA2CDbL-BYZsmI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "FPmRp1WQbK4"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-22T11:35:33Z",
+          "channelId": "UCKLIZap6zepVhF-fWU0n8Ew",
+          "title": "Kirsten Bruijnes en Floris Out van het CDA - Inzamelactie Sintvoorieder1 Alphen aan den Rijn",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/FPmRp1WQbK4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/FPmRp1WQbK4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/FPmRp1WQbK4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Studio Alphen",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-22T11:35:33Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "t5msd-VEuHPMU0tbYo_5KcgitKg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Q_-wEzLKi7g"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-05T14:10:46Z",
+          "channelId": "UCxNAO8eeqqFB-AECp4GHR0A",
+          "title": "Henri Bontenbal | CDA | Buitenhof",
+          "description": "Volgens CDA-lijsttrekker Henri Bontenbal neemt het CDA-verkiezingsprogramma afscheid van 'doorgeschoten marktdenken en ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Q_-wEzLKi7g/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Q_-wEzLKi7g/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Q_-wEzLKi7g/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Buitenhof",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-05T14:10:46Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "P4YMKxzSg8frOmpI57mTzaGjdY8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "btOgV4j1u2E"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-06T19:41:47Z",
+          "channelId": "UCzOPy0KpWMPnlA7yIZ2gv-Q",
+          "title": "Canada Lacks Leverage in Clash with India: Vincent Rigby",
+          "description": "In this week's Expert Series, Vincent Rigby discusses the recent tensions between Canada and India. Rigby emphasizes that the ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/btOgV4j1u2E/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/btOgV4j1u2E/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/btOgV4j1u2E/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CDA Institute",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-06T19:41:47Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "bTLB6BYsKmGUqN_ASMPwxHMEZa4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "YWmO5G84ndY"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-07T00:12:59Z",
+          "channelId": "UCNLZSaMfpGBfnOn_z2q-xEg",
+          "title": "CDA Portfolio Sneak Peek | Princess Educator",
+          "description": "Heyy Educators! Here's a sneak peek of my CDA Portfolio. I have received so many DMs of what my portfolio looks like, so I ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/YWmO5G84ndY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/YWmO5G84ndY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/YWmO5G84ndY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Princess Educator",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-07T00:12:59Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "w68vkNGiZLS1MogNsaDw_9v1wdM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "DY1tMRvDNjk"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-22T12:32:08Z",
+          "channelId": "UCP4NIqLF5a--te1y6kF7QRQ",
+          "title": "Verkiezingen 1994 - De campagne van het CDA van Brinkman",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DY1tMRvDNjk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DY1tMRvDNjk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DY1tMRvDNjk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Binnenhof NL",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-22T12:32:08Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "cbFntHqjx8rAPVvBzZ_dm-nNXAk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "LvOLxTztVmw"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-07T09:48:34Z",
+          "channelId": "UCj37EjsXSPmZU5Xjbk5IAIw",
+          "title": "\u201cIk hoor het CDA zeggen dat mensen zijn weggelopen, maar het CDA is weggelopen\u201d | Op1",
+          "description": "Ik hoor het CDA vaak zeggen dat mensen bij hun zijn weggelopen, maar het CDA is bij die mensen weggelopen\u201d, zegt Caroline ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/LvOLxTztVmw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/LvOLxTztVmw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/LvOLxTztVmw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Op1",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-07T09:48:34Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Ya6hnMBEz3mjEggbXH1olp9xZsA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Og7WMlCOQE4"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-15T02:50:10Z",
+          "channelId": "UCPf8VkGdTDqY_43dDAZBIFg",
+          "title": "Senate Budget Hearing | September 14, 2023 | COOPERATIVE DEVELOPMENT AUTHORITY (CDA)",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Og7WMlCOQE4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Og7WMlCOQE4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Og7WMlCOQE4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CDA Philippines",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-15T02:50:10Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "1hQr9hHrel-szIXB1ry_W3oHzRU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "C-SkOUO3BOg"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-20T10:00:15Z",
+          "channelId": "UCTAJA5ySvTzNDxu5EN2-Ijg",
+          "title": "Wilders (PVV) VS CDA: &quot;Ik ben VERDORIE niet gekozen voor Oekra\u00efne! Ik ben een Nederlands politicus!&quot;",
+          "description": "Deze video is gemaakt door PolitiekTV* Tijdens debat van 20-9-2023 Bedankt voor het kijken naar onze video! Abonneer voor ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/C-SkOUO3BOg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/C-SkOUO3BOg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/C-SkOUO3BOg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Politiek TV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-20T10:00:15Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "MnCNCzeDrD4yo0nEjeHgK0XzyAU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "GgkCD4zgeLg"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-15T10:36:11Z",
+          "channelId": "UChCovZlgNh2x6Z57MJ5fhFw",
+          "title": "D. Antofagasta 1 - 1 San Luis | Liguilla Campeonato Ascenso Betsson 2023 - VUELTA 4tos. de Final",
+          "description": "Mantienen viva la ilusi\u00f3n! Tras igualar 1-1 en la ida y la vuelta, Deportes Antofagasta logr\u00f3 imponerse a San Luis por la v\u00eda de los ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/GgkCD4zgeLg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/GgkCD4zgeLg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/GgkCD4zgeLg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TNT Sports Chile",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-15T10:36:11Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "tO5bd_sdxeAQzLiNYk_DI6RF_Dw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "xoAtP3ubZys"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-01T09:34:36Z",
+          "channelId": "UCUSrVHoJrz68z3Q5qHZZC4w",
+          "title": "CDA-leider Henri Bontenbal wil importheffingen op Chinese elektrische auto&#39;s",
+          "description": "Volgens CDA-lijsttrekker Henri Bontenbal moeten er importbeperkingen opgelegd worden aan Chinese elektrische auto's als ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/xoAtP3ubZys/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/xoAtP3ubZys/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/xoAtP3ubZys/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "WNL",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-01T09:34:36Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "p4iSBzvUuLc2dmd6U1Ud-k6LfmM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "7HIPL74k9x4"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-14T17:18:47Z",
+          "channelId": "UCa0ZzQSRbv_OVlZPDc5Xqqw",
+          "title": "#KiesHenri",
+          "description": "Ook aangenaam verrast door de lijsttrekker van het nieuwe CDA? Doe de test of jij en Henri een match zijn! #KiesHenri ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/7HIPL74k9x4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/7HIPL74k9x4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/7HIPL74k9x4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CDA",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-14T17:18:47Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "XuvY7DHbelV-fHQz-4xu131eVWs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "T0Njt3Yvew4"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-12T17:31:15Z",
+          "channelId": "UCTqT0F-lesokLQ7IZTLTjfQ",
+          "title": "Transmiss\u00e3o em Direto | CD ALCAINS vs CU IDANHENSE  | 9\u00ba Jornada  - Liga Comtesse Lisbonne",
+          "description": "CDATV\u200b\u200b #CDA\u200b\u200b #ClubeDesportivoDeAlcains\u200b#LigaComtesseLisbonne Subscrevam aqui o nosso canal de YouTube ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/T0Njt3Yvew4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/T0Njt3Yvew4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/T0Njt3Yvew4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CDA TV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-12T17:31:15Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "HmV_lXrefdVHP_9WNONLjN_j56E",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "KNFmdajgC80"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-17T01:10:22Z",
+          "channelId": "UCt_ltF6IjEJHiIiTDzsWb5A",
+          "title": "HOMENAGEM PRA LOLY!  LUTO ETERNO\ud83d\udda4AO VIVO",
+          "description": "HOMENAGEM PRA LOLY! LUTO ETERNO  AO VIVO LINK DO C\u00c1SSINO https://bit.ly/3ZOt2q0 PIUZINHO,CIDADE ALTA ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/KNFmdajgC80/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/KNFmdajgC80/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/KNFmdajgC80/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TODURO RP",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-17T01:10:22Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Bwvj5AZLUhbCS409KDGHo7oPH2U",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Oq5NS8G8reI"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-15T09:40:24Z",
+          "channelId": "UChxRZlJNYPVXi_CH6sYS5VQ",
+          "title": "CDA-leider Henri Bontenbal wil CDA VERZOENEN met PIETER OMTZIGT",
+          "description": "Dit is het TPO Ochtendnieuws van woensdag 15 augustus. Henri Bontebal, de nieuwe leider van het CDA, heeft in het door de ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Oq5NS8G8reI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Oq5NS8G8reI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Oq5NS8G8reI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "ThePostOnline TPO",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-15T09:40:24Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "_us39E-prmav7VwHUGPxrM6I7pc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "wpqgRUdIXeI"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-27T12:03:36Z",
+          "channelId": "UCR92EtnVDBw6xB5Y8bVrv8w",
+          "title": "Hans van Gerrevink - CDA Apeldoorn - Vlog #69",
+          "description": "Ik neem je kort mee in de gemeentepolitiek van Apeldoorn. Wat speelde er en wat staat er op de agenda. Kijk je mee?",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/wpqgRUdIXeI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/wpqgRUdIXeI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/wpqgRUdIXeI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hans van Gerrevink CDA",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-27T12:03:36Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "DxbtGk-VtgUM7K15KufHWBTndMU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "So515ayUxQk"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-18T11:10:00Z",
+          "channelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+          "title": "Big Operation Against Illegal Constructions by CDA in Islamabad | Breaking News | Dawn News",
+          "description": "CDA Ka Bara Operation | Breaking News | Dawn News \u0633\u06d2 \u0688\u06cc \u0627\u06d2 \u06a9\u0627 \u0628\u0691\u0627 \u0622\u067e\u0631\u06cc\u0634\u0646 #CDA #flot #fakefiles #flotfakefiles ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/So515ayUxQk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/So515ayUxQk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/So515ayUxQk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "DawnNews",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-18T11:10:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "DOXyJw4M5CbmgpoZ5h3gGmFokFY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "DsAdlFBAF-Y"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-22T16:38:22Z",
+          "channelId": "UCTqT0F-lesokLQ7IZTLTjfQ",
+          "title": "Transmiss\u00e3o em Direto | CDA vs GDC Silvares  | 6\u00ba Jornada  - Liga Comtesse Lisbonne",
+          "description": "CDATV\u200b\u200b #CDA\u200b\u200b #ClubeDesportivoDeAlcains\u200b#LigaComtesseLisbonne Subscrevam aqui o nosso canal de YouTube ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DsAdlFBAF-Y/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DsAdlFBAF-Y/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DsAdlFBAF-Y/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CDA TV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-22T16:38:22Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "KK4X3Y1k4e_GEx6jXd8YTKArzIc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "GwpORK34vHs"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-10T19:36:52Z",
+          "channelId": "UCAZXZqeOpQl1YuS2zJTqt9g",
+          "title": "The Three Main Steps to Earning Your CDA Credential",
+          "description": "Learn how our six-month, self-paced, online Child Development Associate (CDA) course equips you with the training you need to ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/GwpORK34vHs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/GwpORK34vHs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/GwpORK34vHs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "ed2go",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-10T19:36:52Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "1YLkbC15KbDlgQHB40M1oYaIEa4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "TetGZu0shfs"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-08T09:15:28Z",
+          "channelId": "UCUu-iNTp3S3e6HkabPeCeSQ",
+          "title": "Algemene beschouwing CDA op de begroting van 2024",
+          "description": "Na een lange zit is de begroting van de gemeente Bergen voor 2024 goedgekeurd met 12 stemmen voor en drie stemmen tegen.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/TetGZu0shfs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/TetGZu0shfs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/TetGZu0shfs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Maasduinen Centraal",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-08T09:15:28Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "2h3vqBjQR0pO2QgEn0D-O1T9x2c",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "9iHGjZgujC0"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-21T14:00:07Z",
+          "channelId": "UCM3TveAh-hbBBRj0FBGhUdg",
+          "title": "Een baanbrekende arts op de lijst van het CDA? | RTV Oost",
+          "description": "Abonneer je hier gratis http://bit.ly/AbonneerRTVOost Download onze app om op de hoogte te blijven van het laatste nieuws uit ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/9iHGjZgujC0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/9iHGjZgujC0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/9iHGjZgujC0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "RTV Oost",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-21T14:00:07Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "PwGDql7VVTifsH52FueHZGKcj5M",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Lmb5KLaP37I"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-27T07:40:58Z",
+          "channelId": "UCUSrVHoJrz68z3Q5qHZZC4w",
+          "title": "Wordt Nieuw Sociaal Contract een CDA 3.0? &#39;Helemaal niet uitgesloten&#39;",
+          "description": "Pieter Omtzigt presenteerde dinsdagavond 44 kandidaten op de lijst voor zijn partij Nieuw Sociaal Contract (NSC) voor de ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Lmb5KLaP37I/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Lmb5KLaP37I/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Lmb5KLaP37I/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "WNL",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-27T07:40:58Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "q_VgZnjbVWd7ve1PgX7F-zgvQk8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "hYQbEOOFWTk"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-25T23:00:10Z",
+          "channelId": "UCwNa1dNKgtJUFUdSsg6O6Lw",
+          "title": "(\ud83d\udd25\ud83d\udd25\ud83d\udd25) BRENNUZ(SP) X JR THE PRINCE | CDA 4 ANOS | 1\u00b0 FASE | ARACRUZ-ES",
+          "description": "Dia 22/07 aconteceu o anivers\u00e1rio de 4 anos da batalha da CDA(Crias de Aracruz) Contou com 20 Mc's praticamente do Estado ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/hYQbEOOFWTk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/hYQbEOOFWTk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/hYQbEOOFWTk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "BATALHA DA C.D.A",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-25T23:00:10Z"
+        }
+      }
+    ]
+  }
+]

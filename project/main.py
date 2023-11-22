@@ -1,35 +1,25 @@
 import json
 import pandas as pd
+import scraper as sc
+import data as dt
 
-# with open('data/youtube_videos.json') as f:
-#   videos = json.load(f)
+queries = ["vvd", "pvv", "groenlinks | pvda | groenlinks pvda", "d66", "cda"]
 
-# # Convert to dataframe
-# next_page_token = videos['nextPageToken']
-# df = pd.DataFrame(videos['items'])
-# id = df['id'].apply(pd.Series).reindex(columns=['videoId', 'kind'])
-# snippet = df['snippet'].apply(pd.Series)
+# # for query in queries:
+# #   sc.search_videos(query)
+# #   sc.search_comments(query)
 
-# data = pd.concat([id, snippet], axis=1).reindex(columns=['videoId', 'publishedAt', 'kind', 'title', 'description', 'channelTitle', 'liveBroadcastContent'])
-# data['publishedAt'] = pd.to_datetime(data['publishedAt']).dt.date
-# data.sort_values(by=['publishedAt'], inplace=True, ascending=True)
-# print(data.head())
+# for query in queries:
+#   query = query.replace(' ', '_')
+#   dt.save_pd_as_csv(dt.get_relevant_video_data("data/json/videos/videos_" + query + ".json"), 
+#                     "data/csv/videos/videos_" + query + ".csv")
+#   dt.save_pd_as_csv(dt.get_relevant_comment_data("data/json/comments/comments_" + query + ".json"),
+#                      "data/csv/comments/comments_" + query + ".csv")
 
-with open('data/youtube_comments.json', 'r') as f:
-  comment_threads = json.load(f)
+with open("data/csv/comments/comments_vvd.csv") as f:
+  comments = pd.read_csv(f)
 
-# Convert to dataframe
-comments = pd.DataFrame()
-for comment_thread in comment_threads:
-  for comment in comment_thread['items']:
-    ct = comment['snippet']['topLevelComment']
-    comments = comments._append(ct, ignore_index=True)
-
-
-comment_id = comments['id'].rename('commentId')
-snippet = comments['snippet'].apply(pd.Series)
-comment_data = pd.concat([comment_id, snippet], axis=1).reindex(columns=['commentId', 'videoId', 'publishedAt', 'authorDisplayName', 'textDisplay'])
-comment_data.set_index('commentId', inplace=True)
-comment_data['publishedAt'] = pd.to_datetime(comment_data['publishedAt']).dt.date
-comment_data.sort_values(by=['publishedAt', 'videoId'], inplace=True, ascending=[True, False])
-print(comment_data.head())
+for c in comments['textDisplay']:
+  print(c)
+  print(dt.translate_comment(c))
+  print()

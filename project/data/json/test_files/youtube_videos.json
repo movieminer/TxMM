@@ -1,0 +1,1814 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "sk6wdua1H32ugdFLtuU5a7qkqSQ",
+  "nextPageToken": "CDIQAA",
+  "regionCode": "NL",
+  "pageInfo": {
+    "totalResults": 51277,
+    "resultsPerPage": 53
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WO5OCkxweQ3E6cHdthVbP3fx7Mg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IMBqqdV5Ysc"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-04T06:00:23Z",
+        "channelId": "UCyczP3mO2CDr9k9JbBEB8vA",
+        "title": "Campagnefilm Tweede Kamerverkiezingen 2023",
+        "description": "Volg ons hier: Instagram - https://www.instagram.com/voltnederland/ Twitter - https://twitter.com/VoltNederland Facebook ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IMBqqdV5Ysc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IMBqqdV5Ysc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IMBqqdV5Ysc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Volt Nederland",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-04T06:00:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "m9Xtsm3pFljhqIRYJNIQM8uugJE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HaiGCJc22Go"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-11T15:00:11Z",
+        "channelId": "UCHTtspK-G7Wt68awRpTSkiw",
+        "title": "PowCast: De Verkiezingen met Thierry Baudet",
+        "description": "In PowCast: De Verkiezingen blikken we samen met een prominente politicus vooruit op de Tweede Kamer-verkiezingen op 22 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HaiGCJc22Go/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HaiGCJc22Go/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HaiGCJc22Go/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Omroep PowNed",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-11T15:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KP8uKPaNumAKz8rOTScBVNNtWlQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4xIpyfzEBuo"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-24T06:00:02Z",
+        "channelId": "UCxvQFgr1AcMbS1rheMrn4uw",
+        "title": "Waar gaat Johan op stemmen bij de komende Tweede Kamerverkiezingen? | VANDAAG INSIDE",
+        "description": "Johan denkt te weten op wie hij gaat stemmen bij de komende Tweede Kamerverkiezingen. Kijk iedere werkdag om 21.35u naar ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4xIpyfzEBuo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4xIpyfzEBuo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4xIpyfzEBuo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Vandaag Inside",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-24T06:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5xTCkitBszv1emkMFJVwIpsjw-w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dn9fGJYPm-c"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-07T20:22:15Z",
+        "channelId": "UCCEuhjaT09ArS77AJm6etXw",
+        "title": "DE PVV IS ER KLAAR VOOR!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dn9fGJYPm-c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dn9fGJYPm-c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dn9fGJYPm-c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PVVpers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-07T20:22:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "96Wmnb5ycLtLCZfQTSdnska0PyU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9eCZKPbQR94"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-09T17:00:07Z",
+        "channelId": "UC-bbHiTZGWKbsCjpzUfrk6Q",
+        "title": "Wie is de favoriet tijdens de Tweede Kamerverkiezingen?",
+        "description": "Over twee weken zijn er verkiezingen. Dan wordt er gestemd wie er in de Tweede Kamer komt te zitten en straks gaat praten en ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9eCZKPbQR94/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9eCZKPbQR94/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9eCZKPbQR94/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NOS Jeugdjournaal",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-09T17:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FGulS6omQ_Mll9JetLD73B-43pA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eb8ILyOlSg4"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-02T11:44:46Z",
+        "channelId": "UC9H9K7oSpte0uWBofdW4UiA",
+        "title": "&quot;Wat is non-binair?&quot; Baudet (FVD) CLASHT met Jetten (D66) in debat over LHBTQI+",
+        "description": "Het interesseert ons niet wat volwassenen op hun slaapkamer doen. Wij gunnen iedereen al het geluk van de wereld. Maar van ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eb8ILyOlSg4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eb8ILyOlSg4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eb8ILyOlSg4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Forum voor Democratie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-02T11:44:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JF3x6axM5OwpPuClj_HCjJee4oE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-zJ8qQFxHyU"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-09T14:00:00Z",
+        "channelId": "UC-bbHiTZGWKbsCjpzUfrk6Q",
+        "title": "Katten knuffelen met Geert Wilders (PVV)",
+        "description": "De Tweede Kamerverkiezingen komen eraan: wat wil de PVV eigenlijk? Bart sprak erover met de baas van die partij, Geert ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-zJ8qQFxHyU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-zJ8qQFxHyU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-zJ8qQFxHyU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NOS Jeugdjournaal",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-09T14:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xuAsnsnZYTlCvvYM0sD5UTL5G4A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JANKpimM0fE"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-09T13:18:03Z",
+        "channelId": "UCUSrVHoJrz68z3Q5qHZZC4w",
+        "title": "FvD-leider Thierry Baudet neigt naar vertrek Nederland uit NAVO: voorleggen in referendum",
+        "description": "Forum voor Democratie-leider Thierry Baudet geeft de voorkeur aan een vertrek van Nederland uit de NAVO. \"Het lijkt mij een ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JANKpimM0fE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JANKpimM0fE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JANKpimM0fE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WNL",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-09T13:18:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XMseruvnvscOkZz_q5PSDH5x9j4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xRajRhO4DcQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-10T09:56:54Z",
+        "channelId": "UCUSrVHoJrz68z3Q5qHZZC4w",
+        "title": "Teleurstelling voor GroenLinks-PvdA: Frans Timmermans-effect blijft uit",
+        "description": "Het Frans Timmermans-effect waar GroenLinks-PvdA op had gehoopt in aanloop naar de Tweede Kamerverkiezingen, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xRajRhO4DcQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xRajRhO4DcQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xRajRhO4DcQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WNL",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-10T09:56:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GWyn2U9grm7ccDQ8YrY-wW6Ioco",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PH8Ky71sUio"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-05T19:00:16Z",
+        "channelId": "UC8Q2dYFPEyTz_a6UyLVjLFQ",
+        "title": "Tweede Kamerverkiezingen: Wat beloven partijen om armoede aan te pakken?",
+        "description": "Op 22 november 2023 zijn de Tweede Kamerverkiezingen. De komende drie weken besteden we daar in Kassa aandacht aan.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PH8Ky71sUio/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PH8Ky71sUio/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PH8Ky71sUio/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Kassa",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-05T19:00:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UH2Z7lQZKECRIzlp_dj-T-MgQrQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XfUCFlkx3UE"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-19T15:51:51Z",
+        "channelId": "UC9H9K7oSpte0uWBofdW4UiA",
+        "title": "Van Meijeren (FVD) wijst minister De Jonge terecht in Tweede Kamer",
+        "description": "FVD-Kamerlid Gideon van Meijeren verschilt met Hugo de Jonge van mening over wat er ten grondslag ligt aan de polarisatie in ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XfUCFlkx3UE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XfUCFlkx3UE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XfUCFlkx3UE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Forum voor Democratie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-19T15:51:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FJKoyQpVFUO1VQfAw6y6_HjDpoA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UNgKpedpbuE"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-25T20:14:06Z",
+        "channelId": "UC9H9K7oSpte0uWBofdW4UiA",
+        "title": "STEMVERKLARING Baudet (FVD): &quot;Dit is een absurde motie!&quot;",
+        "description": "\"Ik verafschuw wat u zegt, maar zal uw recht om het te zeggen met mijn leven verdedigen.\" FVD zal altijd opkomen voor het recht ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UNgKpedpbuE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UNgKpedpbuE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UNgKpedpbuE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Forum voor Democratie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-25T20:14:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3ciRKW7SXnDKFLF5uXWnWXN44EM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "T0PuD2jGXj8"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-04T13:59:14Z",
+        "channelId": "UC9H9K7oSpte0uWBofdW4UiA",
+        "title": "Comment \u201cBram\ud83e\udd78\u201d hieronder zodat we samen een podcast opnemen!\u2b07\ufe0f #shorts",
+        "description": "Subscribe en volg ons! | Word lid bij Forum voor Democratie! | fvd.nl/doneer | FVD Thierry Baudet Gideon van Meijeren Freek ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/T0PuD2jGXj8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/T0PuD2jGXj8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/T0PuD2jGXj8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Forum voor Democratie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-04T13:59:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nXYJqIF1f90M8MINOY8cvQ18BEQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MfQXzooFg1Q"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-14T10:23:22Z",
+        "channelId": "UCBO9CiY8Yp9P9u52Nx3LOdw",
+        "title": "Samen kan het.",
+        "description": "Stem 22 november GroenLinks-PvdA.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MfQXzooFg1Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MfQXzooFg1Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MfQXzooFg1Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GroenLinks-PvdA",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-14T10:23:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hnJvf4h42W3_MkeAQoctnulCsmQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KOPte50MsZY"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-25T17:00:19Z",
+        "channelId": "UC1Et9K-hHf-P_LzQkE_Q3Jw",
+        "title": "Paternotte vult Stemwijzer in: &#39;23% FvD&#39;",
+        "description": "De Stemwijzer is woensdagochtend weer online gegaan. Nederlanders die nog niet weten op wie zij moeten stemmen tijdens de ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KOPte50MsZY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KOPte50MsZY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KOPte50MsZY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "De Telegraaf",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-25T17:00:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uQnR7HvMIcCpma72QVemRjl35Go",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2etNE169cms"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-14T14:00:02Z",
+        "channelId": "UCHTtspK-G7Wt68awRpTSkiw",
+        "title": "PowCast: De Verkiezingen met Lisa Westerveld (GroenLinks/PvdA)",
+        "description": "In PowCast: De Verkiezingen blikken we samen met een prominente politicus vooruit op de Tweede Kamer-verkiezingen op 22 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2etNE169cms/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2etNE169cms/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2etNE169cms/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Omroep PowNed",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-14T14:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HGNxrbFtI3lAcVsXW2l43k_NT2E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "joCtsRa--Uw"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-08T08:34:26Z",
+        "channelId": "UC5xziMuoFAOpX9mwUVhe2Jw",
+        "title": "TERUGKIJKEN | Thierry Baudet (FvD) beantwoordde jullie vragen",
+        "description": "Van 6 t/m 21 november legt verslaggever Albert Bos iedere werkdag om 9.15 uur jullie vragen live voor aan een lijsttrekker.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/joCtsRa--Uw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/joCtsRa--Uw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/joCtsRa--Uw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NOS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-08T08:34:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jt9bYqmMbM_BnbBykZ_um1ZsTDE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mYHYZ4aoeNI"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-29T07:00:23Z",
+        "channelId": "UCf63l7Wp_wX7T-5ChM_Km9Q",
+        "title": "De politieke partijen uitgelegd",
+        "description": "De Tweede Kamerverkiezingen komen eraan, dus je krijgt van ons zeventien politieke partijen uitgelegd. Ga hieronder meteen ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mYHYZ4aoeNI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mYHYZ4aoeNI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mYHYZ4aoeNI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NOS op 3",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-29T07:00:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hboJxfZ_sbHmw3JuxZ9c1YNjNzc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PvwqLI-8Npc"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-01T19:35:41Z",
+        "channelId": "UCf63l7Wp_wX7T-5ChM_Km9Q",
+        "title": "Jetten (D66) x Baudet (FvD)",
+        "description": "In het NOS op 3 Verkiezingsprogramma gaan Rob Jetten (D66) en Thierry Baudet (Forum voor Democratie) in gesprek met ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PvwqLI-8Npc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PvwqLI-8Npc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PvwqLI-8Npc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NOS op 3",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-01T19:35:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zEIOlDwxMMuEb-ds8tuWojMZNck",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2ReoQgAjgsI"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-02T16:19:03Z",
+        "channelId": "UC6vKjWyrM22qvR71raFCPFA",
+        "title": "UPDATE // I&#39;ve Got The Power // Tweede Kamerverkiezingen",
+        "description": "Tweede Kamerverkiezingen, waar g\u00e1\u00e1n die nou eigenlijk over? Wat gaat er precies gebeuren? En waarom is dat ook voor jou ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2ReoQgAjgsI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2ReoQgAjgsI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2ReoQgAjgsI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "IGTP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-02T16:19:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AdRNnssF2Yo07BGIX_xbiwFjBKI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SHj6xX52cls"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-18T13:26:26Z",
+        "channelId": "UCjiTiTL1OPiM_Ek5up6ij8A",
+        "title": "PvdA en GroenLinks met \u00e9\u00e9n lijst de verkiezingen in: \u201cDit doet recht aan waar we naar toe moeten\u201d",
+        "description": "De PvdA en GroenLinks gaan met een gezamenlijke lijst en met \u00e9\u00e9n verkiezingsprogramma meedoen aan de Tweede ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SHj6xX52cls/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SHj6xX52cls/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SHj6xX52cls/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "OOG Groningen",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-18T13:26:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pu-y5v3aIRaKw_GMyaPoLc9u82U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TdERwHUjYXI"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-03T13:30:34Z",
+        "channelId": "UCExcZNwh_3Mwm4fF4VSiu2w",
+        "title": "Politiek en commercie bij FvD #verkiezingen",
+        "description": "Forum voor Democratie werd opgericht met als doel de democratie te vernieuwen, maar profileert zich steeds meer op ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TdERwHUjYXI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TdERwHUjYXI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TdERwHUjYXI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Nieuwsuur",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-03T13:30:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5mXXtODh--vvKdqsfnMs3hf4SLo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Z9EQ6WzaXaI"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-17T16:21:20Z",
+        "channelId": "UCpYJiwLo1KTKElBq_0xAI7A",
+        "title": "Met \u00c9\u00c9N lijst de Tweede Kamerverkiezingen in \u2764\ufe0f\ud83d\udc9a | Klaver bij de uitslag van het ledenreferendum",
+        "description": "Tijd voor een verenigd links! Dit is Jesse Klaver na de bekendmaking van het ledenreferendum: een overweldigend aantal leden ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Z9EQ6WzaXaI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Z9EQ6WzaXaI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Z9EQ6WzaXaI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GroenLinks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-17T16:21:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZCZS3EFrVtCkPFHbvqBcn81Y6Pg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oVCB5dcg7XA"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-07T12:53:37Z",
+        "channelId": "UClRJ0fR9SrsdDSp0_na5Wew",
+        "title": "D66 en PVV in debat over het vertrouwen in de politiek - NOS Nederland Kiest | NPO Radio 1",
+        "description": "Rob Jetten (Democraten 66) en Geert Wilders (Partij voor de Vrijheid) gaan bij de NOS op NPO Radio 1 in debat over 'het ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oVCB5dcg7XA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oVCB5dcg7XA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oVCB5dcg7XA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NPO Radio 1",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-07T12:53:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rOHJKOxtXNqVYw50bR5lLdfbm6Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PDitTq_P4Kk"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-03T15:00:10Z",
+        "channelId": "UCI6DBNX5JTVECWNdiax56Rw",
+        "title": "D66 \u2014 Nieuwe energie voor Nederland | Campagnespot Tweede Kamerverkiezingen 2023",
+        "description": "De keuzes die we vandaag maken, vormen de toekomst van morgen. Daarom kiezen wij voor goed onderwijs, het klimaat en een ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PDitTq_P4Kk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PDitTq_P4Kk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PDitTq_P4Kk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "D66",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-03T15:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2PzcH4XI4eb80FAkNfAoqgiZvcQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nMlVMS0tYZ4"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-29T07:19:09Z",
+        "channelId": "UCCEuhjaT09ArS77AJm6etXw",
+        "title": "PVV Spotje Zendtijd Politieke Partijen",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nMlVMS0tYZ4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nMlVMS0tYZ4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nMlVMS0tYZ4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PVVpers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-29T07:19:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "16p1T-LdXN9oa1NVL_TSNbrTQMY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yvlwbfWEd9M"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-09T15:00:49Z",
+        "channelId": "UCwN9hjjqUl9VB51um_73hVg",
+        "title": "Helpt harder straffen om criminaliteit terug te dringen? #PointerCheckt #verkiezingen #VVD #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yvlwbfWEd9M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yvlwbfWEd9M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yvlwbfWEd9M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NPO 3",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-09T15:00:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XjqMB73iWYUuOSAlb_nrxyokg1I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hWyALEjqEoA"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-17T15:27:31Z",
+        "channelId": "UCWALr0VavEm8SgPXGafhFDQ",
+        "title": "Linkse samenwerking gaat door: PvdA en GroenLinks met \u00e9\u00e9n lijst de verkiezingen in",
+        "description": "Dit is een fragment uit The Daily Move met presentatoren Kees Dorresteijn en Liesbeth Staats. Te gast is politiek verslaggever ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hWyALEjqEoA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hWyALEjqEoA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hWyALEjqEoA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BNR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-17T15:27:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gX6o9B5Z18uuowiAVS0SdfHd-GI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gyanZNc1ceg"
+      },
+      "snippet": {
+        "publishedAt": "2023-08-22T17:13:33Z",
+        "channelId": "UC-bbHiTZGWKbsCjpzUfrk6Q",
+        "title": "Verkiezingen komen eraan: deze politici ga je veel zien",
+        "description": "De verkiezingen voor de Tweede Kamer komen eraan! In november mogen volwassenen naar de stembus. Hoewel dat nog ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gyanZNc1ceg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gyanZNc1ceg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gyanZNc1ceg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NOS Jeugdjournaal",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-08-22T17:13:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SLWwLjrfo9SMbf6_APO5p2Hwgug",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "c4Y7jToKQK4"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-20T11:32:01Z",
+        "channelId": "UC9H9K7oSpte0uWBofdW4UiA",
+        "title": "Baudet (FVD) CLASHT met VVD, 3 MILJOEN immigranten naar Nederland? Algemene Beschouwingen 2023",
+        "description": "13 jaar VVD. Vier keer regeringsdeelname. Bijna 3.000.000 immigranten. Dit zijn ontluisterende cijfers voor een partij die steeds ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/c4Y7jToKQK4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/c4Y7jToKQK4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/c4Y7jToKQK4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Forum voor Democratie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-20T11:32:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8HxsUrELiObJyzca5fndCJ39Lrk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TOUhcoMVIQo"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-02T19:32:49Z",
+        "channelId": "UCf63l7Wp_wX7T-5ChM_Km9Q",
+        "title": "Yesilg\u00f6z (VVD) x Van der Plas (BBB)",
+        "description": "In het NOS op 3 Verkiezingsprogramma gaan Caroline van der Plas (BBB) en Dilan Yesilg\u00f6z (VVD) in gesprek met twintigers en ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TOUhcoMVIQo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TOUhcoMVIQo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TOUhcoMVIQo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NOS op 3",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-02T19:32:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KLnuVBELc8g3HKsylLlOdfwn7Ic",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oqLTgCLIKts"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-20T18:21:41Z",
+        "channelId": "UC9H9K7oSpte0uWBofdW4UiA",
+        "title": "Thierry Baudet presenteert plan van Hoop, Optimisme en Herstel bij Algemene Beschouwingen 2023 | FVD",
+        "description": "Iedereen die van een afstandje kijkt naar de toestand in ons land, ziet dat we langzaam afglijden. We hebben niets meer te ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oqLTgCLIKts/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oqLTgCLIKts/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oqLTgCLIKts/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Forum voor Democratie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-20T18:21:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ilo_lxmQpzlCBlcglEs7anyWYnY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "c9Sc_QyY29U"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-05T11:06:25Z",
+        "channelId": "UCWALr0VavEm8SgPXGafhFDQ",
+        "title": "PVV wil regeren: &#39;kabinet-Wilders I zal niemand uitsluiten&#39;",
+        "description": "Dit is een fragment van The Friday Move met Wilfred Genee. Aan tafel zit PVV-fractielid Fleur Agema om te praten over de ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/c9Sc_QyY29U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/c9Sc_QyY29U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/c9Sc_QyY29U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BNR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-05T11:06:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5iPEx0t3dp-jLfm1C43Vr1sT9Ys",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Bg06ad221nY"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-03T10:57:11Z",
+        "channelId": "UCNwPeS4zB8K8m4BUaXOOUBg",
+        "title": "Baudet ( FVD ) Goed dat U het erbij zegt bij hem!  #tweedekamer #fvd",
+        "description": "Baudet ( FVD ) Goed dat U het erbij zegt bij hem! #tweedekamer #fvd.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Bg06ad221nY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Bg06ad221nY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Bg06ad221nY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Politiek4You",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-03T10:57:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZTF04-YE4_Ie2wviqvhx5A61D_s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zATqSZGol9s"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-03T21:02:59Z",
+        "channelId": "UClRJ0fR9SrsdDSp0_na5Wew",
+        "title": "NOS Nederland Kiest - Het Debat | NPO Radio 1",
+        "description": "In aanloop naar de Tweede Kamerverkiezingen gaan 16 lijsttrekkers in dit radiodebat met elkaar in discussie onder leiding van ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zATqSZGol9s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zATqSZGol9s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zATqSZGol9s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NPO Radio 1",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-03T21:02:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-BoW6YJ3N0y_GYfGKvU0J0y6Qy8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KgcdWmobz3M"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-09T17:24:41Z",
+        "channelId": "UCisDV4UW8boGqZgtBrG0F_A",
+        "title": "Agema (PVV) CONFRONTEERT Vera Bergkamp met smerige spelletjes!",
+        "description": "Agema (PVV) CONFRONTEERT Vera Bergkamp met smerige spelletjes! Music credits: Keichan - A piano of tragedy Deze video ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KgcdWmobz3M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KgcdWmobz3M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KgcdWmobz3M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Politiek Inzicht",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-09T17:24:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7BbABXtYaZ3Rrl4nZ_CUeE3-3Kg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Z4J41xl2_Og"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-31T08:57:00Z",
+        "channelId": "UCCEuhjaT09ArS77AJm6etXw",
+        "title": "Frans Timmermans van GroenLinks en de PvdA is duidelijk in paniek",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Z4J41xl2_Og/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Z4J41xl2_Og/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Z4J41xl2_Og/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PVVpers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-31T08:57:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8ePMq3z0dkUldzq_1dOOiqd2Qd4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "B0g_UPpfvvI"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-09T16:00:10Z",
+        "channelId": "UCDYrH_5X0VcoQfCUPsTOw3g",
+        "title": "Wilders (PVV) zet Jetten (D66) voor schut in debat.",
+        "description": "Verkiezingsdebat 2023 WIlders (PVV)- Jetten (D66) 04-11-2023 Wil je meer Debatten uit de Tweede Kamer zien? druk dan ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/B0g_UPpfvvI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/B0g_UPpfvvI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/B0g_UPpfvvI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Politiek Correct",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-09T16:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2hrL630RKiKv-DbMFHE2j-O8lks",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mnMbNns726s"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-03T20:38:09Z",
+        "channelId": "UCCEuhjaT09ArS77AJm6etXw",
+        "title": "D66 staat op 4 zetels in de peilingen",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mnMbNns726s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mnMbNns726s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mnMbNns726s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PVVpers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-03T20:38:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ejNuU3T_YsL37aRojr2hyBBrduE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "S_EBnHt4Trs"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-03T10:32:20Z",
+        "channelId": "UCExcZNwh_3Mwm4fF4VSiu2w",
+        "title": "Hoe Baudet schippert tussen politiek en commercie",
+        "description": "Forum voor Democratie werd opgericht met als doel de democratie te vernieuwen, maar profileert zich steeds meer op ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S_EBnHt4Trs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S_EBnHt4Trs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S_EBnHt4Trs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Nieuwsuur",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-03T10:32:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1hQr9hHrel-szIXB1ry_W3oHzRU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "C-SkOUO3BOg"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-20T10:00:15Z",
+        "channelId": "UCTAJA5ySvTzNDxu5EN2-Ijg",
+        "title": "Wilders (PVV) VS CDA: &quot;Ik ben VERDORIE niet gekozen voor Oekra\u00efne! Ik ben een Nederlands politicus!&quot;",
+        "description": "Deze video is gemaakt door PolitiekTV* Tijdens debat van 20-9-2023 Bedankt voor het kijken naar onze video! Abonneer voor ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C-SkOUO3BOg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C-SkOUO3BOg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C-SkOUO3BOg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Politiek TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-20T10:00:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GLDBoX_o_Yk4jCB9Z3hNWJ3x1g0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "y9bwyWOhoco"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-09T16:28:47Z",
+        "channelId": "UC9H9K7oSpte0uWBofdW4UiA",
+        "title": "\ud83d\udc4f\ud83c\udffb Stemwijzer nodig? Nee joh! Stem #FVD 22 november! #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/y9bwyWOhoco/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/y9bwyWOhoco/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/y9bwyWOhoco/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Forum voor Democratie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-09T16:28:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fj7K1yJzWToG3BavLkE1582yp-M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JBQ658FJI40"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-21T15:07:55Z",
+        "channelId": "UC9H9K7oSpte0uWBofdW4UiA",
+        "title": "Verbod op LHBT-propaganda en asiel voor Assange? Baudet (FVD) dient moties in bij APB 2023",
+        "description": "Elke tijd heeft dissidenten. Vrijdenkers die de heersende opvattingen niet onderschrijven. Een paradigmaverandering kan ieder ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JBQ658FJI40/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JBQ658FJI40/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JBQ658FJI40/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Forum voor Democratie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-21T15:07:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CWAx8xXX3fZDwQwCpMrCBBhtHhQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oy5WcRB3Vls"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-11T15:43:43Z",
+        "channelId": "UC9H9K7oSpte0uWBofdW4UiA",
+        "title": "Wat vindt Thierry Baudet (FVD) van het conflict tussen Isra\u00ebl en Hamas? (VOLLEDIGE INBRENG)",
+        "description": "FVD-partijleider Thierry Baudet geeft voor het eerst sinds de verschrikkelijke gebeurtenissen in Isra\u00ebl en Gaza zijn uitgebreide ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oy5WcRB3Vls/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oy5WcRB3Vls/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oy5WcRB3Vls/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Forum voor Democratie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-11T15:43:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "v6UiLxfcTyKEfoNCua6Xr3slI-E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CAFao5nCPzk"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-07T13:09:51Z",
+        "channelId": "UC9H9K7oSpte0uWBofdW4UiA",
+        "title": "\ud83e\udd78 Bram snapt er niks van. #shorts",
+        "description": "Subscribe en volg ons! | Word lid bij Forum voor Democratie! | fvd.nl/doneer | FVD Thierry Baudet Gideon van Meijeren Freek ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CAFao5nCPzk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CAFao5nCPzk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CAFao5nCPzk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Forum voor Democratie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-07T13:09:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vkaekqT0EDv9sfl65vyZC8AhDTE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UbvhtT-7ESw"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-30T11:07:16Z",
+        "channelId": "UCBO9CiY8Yp9P9u52Nx3LOdw",
+        "title": "FRANS TIMMERMANS: hoe krijgen we Nederland weer VOORUIT?",
+        "description": "Op 22 november zijn de Tweede Kamerverkiezingen. In deze tijden van politieke versplintering doen GroenLinks en de Partij van ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UbvhtT-7ESw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UbvhtT-7ESw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UbvhtT-7ESw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GroenLinks-PvdA",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-30T11:07:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PIvTByEOusgzz41ZABJ15pBPeX0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cp0F4_FZwRc"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-23T16:00:27Z",
+        "channelId": "UCZean7nAZKDGIHANq-MuaGA",
+        "title": "Verkiezingscongres VVD - 23 september 2023",
+        "description": "Wil je niks missen van Dilan en alles wat er bij de VVD gebeurt? Abonneer!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cp0F4_FZwRc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cp0F4_FZwRc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cp0F4_FZwRc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "VVD",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-23T16:00:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "aBtntEwvttcQqu41njuArr8G5pw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fGEomtTl9zo"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-28T18:42:30Z",
+        "channelId": "UC9H9K7oSpte0uWBofdW4UiA",
+        "title": "Van Meijeren met VLIJMSCHERPE analyse over democratie, FVD dient referendumwet in",
+        "description": "Gideon van Meijeren velt een vernietigend oordeel over de staat van onze 'democratie'. Thierry Baudet en Pepijn van ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fGEomtTl9zo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fGEomtTl9zo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fGEomtTl9zo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Forum voor Democratie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-28T18:42:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Mv5XjrWzFEXdFzoz7tuJ9w8zTUE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DO5aVVz18Zg"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-09T13:00:17Z",
+        "channelId": "UCTAJA5ySvTzNDxu5EN2-Ijg",
+        "title": "Tweede Kamer WEIGERT alle debat-voorstellen van FVD: &quot;Dit zijn ROEKELOZE besluiten!&quot;",
+        "description": "Deze video is gemaakt door PolitiekTV* Tijdens debat van 5-9-2023 Wil je PolitiekTV steunen? Dat kan via: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DO5aVVz18Zg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DO5aVVz18Zg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DO5aVVz18Zg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Politiek TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-09T13:00:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BBc-lOLy273jgnbWMO-X264uwO8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rNKdZd9N6zM"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-18T12:00:46Z",
+        "channelId": "UCTAJA5ySvTzNDxu5EN2-Ijg",
+        "title": "Wilders (PVV) is WOEST om aanstelling MOSLIM-TERORRIST bij de VVD: &quot;Hoe haal je het in je hoofd!?&quot;",
+        "description": "Deze video is gemaakt door PolitiekTV* Tijdens debat van 17-10-2023 Bedankt voor het kijken naar onze video! Abonneer voor ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rNKdZd9N6zM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rNKdZd9N6zM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rNKdZd9N6zM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Politiek TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-18T12:00:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2-W13SJsQH7xOkv29lJl6-CHlMs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wx7izlaLTH8"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-11T11:20:06Z",
+        "channelId": "UC9H9K7oSpte0uWBofdW4UiA",
+        "title": "\ud83e\udd14 Hebben we wel te maken met eerlijke onderhandelingspartners? Stem #FVD 22 november!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wx7izlaLTH8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wx7izlaLTH8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wx7izlaLTH8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Forum voor Democratie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-11T11:20:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Qos06vbYRF_8DRVDZVjdnPmF1vk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QDi2nIM22J8"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-10T16:44:55Z",
+        "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
+        "title": "Congress cancels votes as potential shutdown gets closer",
+        "description": "Congress has just one week to prevent a government shutdown, but so far lawmakers have not been able to come together.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QDi2nIM22J8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QDi2nIM22J8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QDi2nIM22J8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CBS News",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-10T16:44:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BUPH6Ml0s3xxnlq9eDGrJ4kbt6E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yjfv95ct04s"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-08T18:26:33Z",
+        "channelId": "UC9H9K7oSpte0uWBofdW4UiA",
+        "title": "Klokkenluider doet een boekje open over gang van zaken bij defensie | FVD",
+        "description": "Jaren na het spraakmakende optreden van Thierry Baudet in de Tweede Kamer is het materieel van ons leger nog steeds zwaar ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yjfv95ct04s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yjfv95ct04s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yjfv95ct04s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Forum voor Democratie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-08T18:26:33Z"
+      }
+    }
+  ]
+}

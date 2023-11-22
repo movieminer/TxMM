@@ -11,7 +11,7 @@ key=os.environ.get('YOUTUBE_API_KEY')
 youtube = googleapiclient.discovery.build(api_service_name, api_version, developerKey=key)
 
 # Retrieve youtube videos
-def retrieve_youtube_videos(search_terms, published_after, max_results=50):
+def retrieve_youtube_videos(search_terms, published_after, max_results=50, npt=None):
   try :
     request = youtube.search().list(
         part="snippet",
@@ -21,7 +21,8 @@ def retrieve_youtube_videos(search_terms, published_after, max_results=50):
         q=search_terms,
         relevanceLanguage="nl",
         safeSearch="none",
-        type="video"
+        type="video",
+        pageToken=npt
     )
     response = request.execute()
   except googleapiclient.errors.HttpError as e:
@@ -51,28 +52,41 @@ def retrieve_comments_per_video(video_id):
   return response
 
 
-# videos = retrieve_youtube_videos("verkiezingen | tweede kamerverkiezingen | vvd | pvv | fvd | groenlinks", "2023-07-07T00:00:00Z")
+def search_videos(terms):
+    videos = retrieve_youtube_videos(terms, "2023-07-07T00:00:00Z")
+    npt = videos.get('nextPageToken', None)
+    videos_2 = retrieve_youtube_videos(terms, "2023-07-07T00:00:00Z", npt=npt)
 
-# with open('youtube_videos.json', 'w') as f:
-#   json.dump(videos, f)
+    terms_f = terms.replace(' ', '_')
+    with open(f'data/videos/videos_{terms_f}.json', 'w') as f:
+      json.dump([videos, videos_2], f)
 
-with open('youtube_videos.json', 'r') as f:
-  videos = json.load(f)
+    return videos.get('nextPageToken', None)
 
-video_ids = [videos['items'][x]['id']['videoId'] for x in range(len(videos['items']))]
 
-# Retrieve comments per video
-comments_disabled = []
-comments = []
-for video_id in video_ids:
-  comments_per_video = retrieve_comments_per_video(video_id)
-  if comments_per_video:
-    comments.append(comments_per_video)
-  else:
-    comments_disabled.append(video_id)
+def search_comments(terms):
+  terms_f = terms.replace(' ', '_')
+  with open(f'data/videos/videos_{terms_f}.json', 'r') as f:
+    videos = json.load(f)
 
-with open('youtube_comments.json', 'w') as f:
-  json.dump(comments, f)
+  video_ids = []
+  for page in videos:
+    for video in page['items']:
+      if video['id']['kind'] == 'youtube#video':
+        video_ids.append(video['id']['videoId'])  
 
-with open('youtube_comments_disabled.json', 'w') as f:
-  json.dump(comments_disabled, f)
+  # Retrieve comments per video
+  comments_disabled = []
+  comments = []
+  for video_id in video_ids:
+    comments_per_video = retrieve_comments_per_video(video_id)
+    if comments_per_video:
+      comments.append(comments_per_video)
+    else:
+      comments_disabled.append(video_id)
+
+  with open(f'data/comments/comments_{terms_f}.json', 'w') as f:
+    json.dump(comments, f)
+
+  with open(f'data/comments/comments_disabled_{terms_f}.json', 'w') as f:
+    json.dump(comments_disabled, f)
