@@ -3,7 +3,7 @@ import pandas as pd
 import scraper as sc
 import data as dt
 
-queries = ["vvd", "pvv", "groenlinks | pvda | groenlinks pvda", "d66", "cda"]
+queries = ["pvv", "groenlinks | pvda | groenlinks pvda", "d66", "cda"]
 
 # # for query in queries:
 # #   sc.search_videos(query)
@@ -16,10 +16,11 @@ queries = ["vvd", "pvv", "groenlinks | pvda | groenlinks pvda", "d66", "cda"]
 #   dt.save_pd_as_csv(dt.get_relevant_comment_data("data/json/comments/comments_" + query + ".json"),
 #                      "data/csv/comments/comments_" + query + ".csv")
 
-with open("data/csv/comments/comments_vvd.csv") as f:
-  comments = pd.read_csv(f)
+for q in queries:
+  with open(f"data/csv/comments/comments_{q}.csv", "r") as f:
+    comments = pd.read_csv(f)
 
-for c in comments['textDisplay']:
-  print(c)
-  print(dt.translate_comment(c))
-  print()
+  comments['textTranslated'] = comments['textDisplay'].apply(dt.translate_comment)
+  
+
+  dt.save_pd_as_csv(comments, f"data/csv/comments/comments_{q}.csv")

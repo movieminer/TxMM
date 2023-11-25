@@ -1,6 +1,7 @@
 import json
 import pandas as pd
 import requests
+from deep_translator import GoogleTranslator
 
 def get_relevant_video_data(path):
   with open(path) as f:
@@ -50,18 +51,32 @@ def save_pd_as_csv(data, path):
   data.to_csv(path, index=False)
 
 
+# def translate_comment(comment):
+#   api_url = "http://mymemory.translated.net/api/get?q={}&langpair={}|{}&de={}".format(comment, "nl", "en", "gamersgamingrandom@gmail.com")
+#   hdrs = {
+#       'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11',
+#       'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+#       'Accept-Charset': 'ISO-8859-1,utf-8;q=0.7,*;q=0.3',
+#       'Accept-Encoding': 'none',
+#       'Accept-Language': 'en-US,en;q=0.8',
+#       'Connection': 'keep-alive'}
+#   response = requests.get(api_url, headers=hdrs)
+#   response_json = json.loads(response.text)
+#   translation = response_json["responseData"]["translatedText"]
+
+#   print(comment)
+#   print(translation + "\n")
+
+#   return translation
+
 def translate_comment(comment):
-  
-  api_url = "http://mymemory.translated.net/api/get?q={}&langpair={}|{}".format(comment, "nl", "en")
-  hdrs = {
-      'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11',
-      'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-      'Accept-Charset': 'ISO-8859-1,utf-8;q=0.7,*;q=0.3',
-      'Accept-Encoding': 'none',
-      'Accept-Language': 'en-US,en;q=0.8',
-      'Connection': 'keep-alive'}
-  response = requests.get(api_url, headers=hdrs)
-  response_json = json.loads(response.text)
-  translation = response_json["responseData"]["translatedText"]
+  translator = GoogleTranslator(source='auto', target='en')
+  translation = translator.translate(comment)
+
+  if not translation:
+    translation = comment
+    
+  print(comment)
+  print(translation + "\n")
 
   return translation
