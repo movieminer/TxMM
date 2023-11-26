@@ -69,13 +69,18 @@ def save_pd_as_csv(data, path):
 
 #   return translation
 
+translator = GoogleTranslator(source='auto', target='en')
+
 def translate_comment(comment):
-  translator = GoogleTranslator(source='auto', target='en')
+  comment = str(comment)
+  if len(comment) > 5000:
+    return comment
+  
   translation = translator.translate(comment)
 
   if not translation:
     translation = comment
-    
+
   print(comment)
   print(translation + "\n")
 
