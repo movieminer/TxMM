@@ -34,3 +34,15 @@ def translate_comments(queries):
 
     dt.save_pd_as_csv(comments, f"data/csv/comments/comments_{q}.csv")
 
+
+def merge_comments_to_one_file(queries):
+  comments = pd.DataFrame()
+  for q in queries:
+    q = q.replace(' ', '_')
+    path = f'data/csv/comments/comments_{q}.csv'
+    df = pd.read_csv(path)
+    comments = pd.concat([comments, df], ignore_index=True)
+
+  comments.to_csv('data/csv/comments/comments.csv', index=False)
+
+merge_comments_to_one_file(queries)
